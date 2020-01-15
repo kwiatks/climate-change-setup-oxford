@@ -1,8 +1,5 @@
 # Climate change Hackathon Setup : 7-9th Feb 2020
 
-# University hackathon introduction to IBM Cloud
-videos short courses, and essential cheat sheets
-
 ## get an IBMId and IBM Cloud login
 
 A short video that that shows the sign-up process for IBM Cloud through the Academic Initiative.  
@@ -11,15 +8,8 @@ A short video that that shows the sign-up process for IBM Cloud through the Acad
 -->
 https://www.youtube.com/watch?v=zsubZGAOWMw
 
-The main links:
-
-+ [IBM Developer link to Academic programs](https://developer.ibm.com/academic/accessresources/)
-+ [Academic Initiative sign up](https://ibm.biz/academic)
-+ following the intrusctions for the IBM Cloud section (not the Security)
-
 Once you've signed up, and received the notification email - login to the [IBM Cloud console](https://console.cloud.com)
-
-
+## 
 ## intro to bluemix/ibmcloud 
 predominantly around CloudFoundry/PaaS (David Barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
 + https://www.youtube.com/watch?v=GsGnyZedlFk
