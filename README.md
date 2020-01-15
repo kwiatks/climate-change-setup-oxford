@@ -13,24 +13,36 @@ Once you've signed up, and received the notification email - login to the [IBM C
 
 <Diagram>
 
-### Physical Analytics Integrated Data Repository and Services (PAIRS) GUI and APIs
+### Physical Analytics Integrated Data Repository and Services (PAIRS) : GUI and APIs
 
 ### The Weather Company (TWC) APIs
 
-### IBM Watson Studio instances in your own IBM Cloud account
-
-### MUST DO : Register your IBM ID with our Registration service
-
+### Developer tools : Watsonn Studio
 
 ## Details
+
+### MUST DO : Register your IBM ID with the Registration service
+
+<steps on registering your IBM ID so you can call PAIRS>
 
 ### Intoduction to IBM Watson Studio
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be founnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one <????> since it has calls to PAIRS and TWC APIs.
 
-## intro to bluemix/ibmcloud 
+### Introduction to PAIRS
+
+### Introduction to TWC
+
+
+
+
+## Intro to bluemix/ibmcloud 
 predominantly around CloudFoundry/PaaS (David Barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
 + https://www.youtube.com/watch?v=GsGnyZedlFk
+
+
+
+
 
 ## introduction to developing code
 IBM Developer tutorial on app dev - slightly out of date UI. Create app from starter, add toolchain, intro to CLI
