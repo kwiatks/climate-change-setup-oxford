@@ -1,6 +1,6 @@
 # Climate change Hackathon Setup : 7-9th Feb 2020
 
-## get an IBMId and IBM Cloud login
+## Get an IBMId and IBM Cloud login
 
 A short video that that shows the sign-up process for IBM Cloud through the Academic Initiative.  
 <!-- short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
@@ -9,7 +9,15 @@ A short video that that shows the sign-up process for IBM Cloud through the Acad
 https://www.youtube.com/watch?v=zsubZGAOWMw
 
 Once you've signed up, and received the notification email - login to the [IBM Cloud console](https://console.cloud.com)
-## 
+## Summary of what is IBM supplying for this hackathon
+
+### Physical Analytics Integrated Data Repository and Services (PAIRS) GUI and APIs
+
+### The Weather Company (TWC) APIs
+
+### IBM Watson Studio instances in your own IBM Cloud account
+
+
 ## intro to bluemix/ibmcloud 
 predominantly around CloudFoundry/PaaS (David Barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
 + https://www.youtube.com/watch?v=GsGnyZedlFk
