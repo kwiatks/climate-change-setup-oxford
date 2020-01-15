@@ -1,4 +1,4 @@
-# uni-hacktivation
+# Climate change Hackathon Setup : 7-9th Feb 2020
 
 # University hackathon introduction to IBM Cloud
 videos short courses, and essential cheat sheets
