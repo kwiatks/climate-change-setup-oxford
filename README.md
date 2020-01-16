@@ -30,11 +30,20 @@ There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
 There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (one datalayer contains many datasets).  Datalayers that you have access to are ih this -> ???? file and datasets are here -> ???.
 
 ### GUI
-There are a few short videos here -> https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc that you can look at to understand how to use the GUI version of PAIRS.  
-
 All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
-- ddd
-- dddd
+- Go to https://ibmpairs.mybluemix.net/ 
+- Click "Get Started"
+- Click "Sign in using IBMid"
+- Enter your IBMid and then click Continue
+- Login with your IBMid password
+- Read the Terms and conditions and click "I accept the terms"
+- You will be presented with the GUI of PAIRS
+- Click the circular symbol to the top right of the screen and check your username is shown
+
+There are a few short videos here -> https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc that you can look at to understand how to use the GUI version of PAIRS.
+
+You can pick the Clone icon on the Example to have your own version which you can manipulate as required.  For example, scroll down to "UK crop map" and click the clone icon.   
+
 In the Data Explorer view if you know the ID of your dataset then you can enter it's ID in the Search filter field and click enter and the corresponding dataset will be shown.
 
 Once you have decided on the dataset and have shown it on the GUI display you can click anywhere on the map and (if available) a more detailed view of the data *at that point* will be shown.  <need diagram>.  Also, if the Download option is picked the you are presented with some curl commands which can be used to fetch the data from PAIRS directly and stored locally if required.
