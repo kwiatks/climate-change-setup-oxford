@@ -49,7 +49,7 @@ In the Data Explorer view if you know the ID of your dataset then you can enter 
 Once you have decided on the dataset and have shown it on the GUI display you can click anywhere on the map and (if available) a more detailed view of the data *at that point* will be shown.  <need diagram>.  Also, if the Download option is picked the you are presented with some curl commands which can be used to fetch the data from PAIRS directly and stored locally if required.
 
 ### APIs
-There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html.  
+There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/
 
 
 ### 
