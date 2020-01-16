@@ -1,13 +1,14 @@
 # Climate change Hackathon Setup : 7-9th Feb 2020
 
-## Get an IBM ID and IBM Cloud login
+## Get an IBMId and IBM Cloud login
 
-Create your IBM ID account on http://ibm.biz/OxAI-2020-hack. Your username is your Oxford University email address ending in ox.ac.uk and a password of your choice. You will need to verify your account through the email your receive in your Inbox. 
+A short video that that shows the sign-up process for IBM Cloud through the Academic Initiative.  
+<!-- short video that shows the sign up process using current UI. up to 1:45 (thereafter goes into VMWare console in Softlayer)
++ https://www.youtube.com/watch?v=HBkY-Fs1d6E
+-->
+https://www.youtube.com/watch?v=zsubZGAOWMw
 
-Your IBM ID can nbe enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID.  
-
-Login to the [https://cloud.ibm.com/login](https://cloud.ibm.com/login) with your IBM ID you just created.
-
+Once you've signed up, and received the notification email - login to the [IBM Cloud console](https://console.cloud.com)
 ## Summary (of what is IBM supplying for this hackathon)
 
 <Diagram>
@@ -16,7 +17,7 @@ Login to the [https://cloud.ibm.com/login](https://cloud.ibm.com/login) with you
 
 ### The Weather Company (TWC) APIs
 
-### Developer tools : Watsonn Studio
+### Developer tools : Watson Studio
 
 ## Details
 
