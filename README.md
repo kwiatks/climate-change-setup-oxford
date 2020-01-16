@@ -32,6 +32,9 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 ### GUI
 There are a few short videos here -> https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc that you can look at to understand how to use the GUI version of PAIRS.  
 
+All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
+- ddd
+- dddd
 In the Data Explorer view if you know the ID of your dataset then you can enter it's ID in the Search filter field and click enter and the corresponding dataset will be shown.
 
 Once you have decided on the dataset and have shown it on the GUI display you can click anywhere on the map and (if available) a more detailed view of the data *at that point* will be shown.  <need diagram>.  Also, if the Download option is picked the you are presented with some curl commands which can be used to fetch the data from PAIRS directly and stored locally if required.
