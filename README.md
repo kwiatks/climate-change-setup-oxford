@@ -11,23 +11,40 @@ Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 ## Introductions
 ### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
 
+IBM PAIRS (Physical Analytics Integrated Data Repository and Services) GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information.  See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
+
+There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
+
 ### Introduction to The Weather Company (TWC)
 
 ### Introduction to Watson Studio
 
 ## Details for this hackathon
 
-### Overview
+## Overview
 
 <Diagram>
 
-### MUST DO : Register your IBM ID with the Registration service
+## PAIRS
+
+### GUI
+
+### APIs
+
+### PAIRS : MUST DO : Register your IBM ID with the our PAIRS Registration service
 
 <steps on registering your IBM ID so you can call PAIRS>
+       
+## TWC
 
-### IBM Watson Studio : great tutorial to follow first
+### APIs
+The full set of TWC APIs is shown here -> https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit.  To access them you will need an API key - this is supplied to you in the hackathon material.
 
-We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be founnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one <????> since it has calls to PAIRS and TWC APIs.
+Some useful information on using TWC APIs is contained in this PDF -> ??? 
+
+## Calling PAIRS and TWC within Watson Studio
+
+We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be fonnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one <????> since it has calls to PAIRS and TWC APIs.
 
 
 
