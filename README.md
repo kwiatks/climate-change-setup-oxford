@@ -8,77 +8,28 @@ Your IBM ID can nbe enabled to a large number of facilities - for now you will h
 
 Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 
-## Summary (of what is IBM supplying for this hackathon)
+## Introductions
+### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
+
+### Introduction to The Weather Company (TWC)
+
+### Introduction to Watson Studio
+
+## Details for this hackathon
+
+### Overview
 
 <Diagram>
-
-### Physical Analytics Integrated Data Repository and Services (PAIRS) : GUI and APIs
-
-### The Weather Company (TWC) APIs
-
-### Developer tools : Watson Studio
-
-## Details
 
 ### MUST DO : Register your IBM ID with the Registration service
 
 <steps on registering your IBM ID so you can call PAIRS>
 
-### Intoduction to IBM Watson Studio
+### IBM Watson Studio : great tutorial to follow first
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be founnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one <????> since it has calls to PAIRS and TWC APIs.
 
-### Introduction to PAIRS
 
-### Introduction to TWC
-
-
-
-
-## Intro to bluemix/ibmcloud 
-predominantly around CloudFoundry/PaaS (David Barnes most recent version - almost current IBM Cloud, before he went on sabbatical)
-+ https://www.youtube.com/watch?v=GsGnyZedlFk
-
-
-
-
-
-## introduction to developing code
-IBM Developer tutorial on app dev - slightly out of date UI. Create app from starter, add toolchain, intro to CLI
-<!-- + https://developer.ibm.com/courses/all/bluemix-essentials/ -->
-+ https://developer.ibm.com/tutorials/cl-bluemix-getting-started-video/
-
-and an online course that can earn you an [Open badge](https://cognitiveclass.ai/badges/ibm-cloud-essentials/)
-+ https://cognitiveclass.ai/courses/ibm-cloud-essentials/
-
-## the 12 factor app philosophy
-+ https://12factor.net/
-
-## the microservices philosophy
-+ https://martinfowler.com/articles/microservices.html
-
-## using nodered for AI and IOT - introduction
-+ https://nodered.org/docs/
-+ https://developer.ibm.com/videos/an-introduction-to-node-red/ Brian Innes
-+ http://www.steves-internet-guide.com/node-red-overview/  Steve Cope - bite-size chunks
-
-+ https://github.com/IBMDeveloperUK/NodeRED-for-AI-flows IBMdeveloperUK
-+ https://cognitiveclass.ai/courses/node-red-basics-to-bots/ Soheel Chughtai
-+ https://developer.ibm.com/courses/all/blinky-lights-motion-detectors-create-fun-watson-iot-apps/   (Soheel Chughtai)
-
-## installing nodered on IBM Cloud
-+ https://www.youtube.com/watch?v=Hu2tycYTTJc
-
-## short introduction to relation database SQL
-+ https://mobile.databasejournal.com/sqletc/article.php/1469521/Introduction-to-Relational-Databases.htm
-
-## NoSQL introduction
-+ https://www.thoughtworks.com/insights/blog/nosql-no-problem-intro-nosql-databases
-https://en.m.wikipedia.org/wiki/NoSQL
-
-## Cloudant - what is it good for - all things JSON
-+ https://www.youtube.com/watch?v=qdMTLK2vYoI 
-+ [python app demo for IBM Cloud](https://cloud.ibm.com/docs/services/Cloudant/tutorials?topic=cloudant-creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud#creating-and-populating-a-simple-ibm-cloudant-database-on-ibm-cloud) 
 
 ## Sample JSON data server
 + https://my-json-server.typicode.com/typicode/demo
