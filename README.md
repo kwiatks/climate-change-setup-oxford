@@ -6,7 +6,7 @@ Create your IBM ID account on http://ibm.biz/OxAI-2020-hack. Your username is yo
 
 Your IBM ID can nbe enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID.  
 
-Login to the [IBM Cloud console](https://console.cloud.com) with your IBM ID you just created.
+Login to the [https://cloud.ibm.com/login](https://cloud.ibm.com/login) with your IBM ID you just created.
 
 ## Summary (of what is IBM supplying for this hackathon)
 
