@@ -67,23 +67,6 @@ Some useful information on using TWC APIs is contained in this PDF -> ???
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be fonnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one ????? since it has calls to PAIRS and TWC APIs.
 
-
-
-## Sample JSON data server
-+ https://my-json-server.typicode.com/typicode/demo
-+ https://jsonplaceholder.typicode.com/users
-+ https://examples.cloudant.com/movies-demo/_all_docs?include_docs=true&limit=100
-
-## Building chatbots with Watson Assistant
-+ https://www.youtube.com/watch?v=xdGaynxnt4M intro talk
-+ https://watson-assistant-demo.ng.bluemix.net guided demo
-
-## cognitive class - watson content
-+ https://cognitiveclass.ai/?s=watson+ai
-
-## Watson cognitive services - starter kits
-+ https://console.bluemix.net/developer/watson/starter-kits
-
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
 + https://www.w3schools.com/ 
