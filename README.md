@@ -19,7 +19,7 @@ There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
 
 ### Introduction to Watson Studio
 
-## Details for this hackathon
+## Detailed steps for this Event
 
 ## Overview
 
