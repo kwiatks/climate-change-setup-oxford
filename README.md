@@ -19,6 +19,8 @@ There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
 
 ### Introduction to Watson Studio
 
+Test changes from local clone
+
 ## Detailed steps for this Event
 
 ## Overview
@@ -31,7 +33,7 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 ### GUI
 All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
-- Go to https://ibmpairs.mybluemix.net/ 
+- Go to https://ibmpairs.mybluemix.net/
 - Click "Get Started"
 - Click "Sign in using IBMid"
 - Enter your IBMid and then click Continue
@@ -52,16 +54,16 @@ Once you have decided on the dataset and have shown it on the GUI display you ca
 There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/
 
 
-### 
+###
 
 <steps on registering your IBM ID so you can call PAIRS>
-       
+
 ## TWC
 
 ### APIs
 The full set of TWC APIs is shown here -> https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit.  To access them you will need an API key - this is supplied to you in the hackathon material.
 
-Some useful information on using TWC APIs is contained in this PDF -> ??? 
+Some useful information on using TWC APIs is contained in this PDF -> ???
 
 ## Calling PAIRS and TWC within Watson Studio
 
@@ -69,7 +71,7 @@ We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and 
 
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
-+ https://www.w3schools.com/ 
++ https://www.w3schools.com/
 
 ## get going with Github
 + https://guides.github.com
