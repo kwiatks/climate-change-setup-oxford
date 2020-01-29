@@ -1,4 +1,4 @@
-# Climate change Hackathon Setup : 7-9th Feb 2020
+# Climate `change event : 7-9th Feb 2020
 
 ## Get an IBMId and IBM Cloud login
 
@@ -9,6 +9,11 @@ Your IBM ID can nbe enabled to a large number of facilities - for now you will h
 Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 
 ## Introductions
+
+### Architecture
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
+
 ### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
 
 IBM PAIRS (Physical Analytics Integrated Data Repository and Services) GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information.  See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
