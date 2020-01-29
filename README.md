@@ -72,15 +72,13 @@ Some useful information on using TWC APIs is contained in this PDF -> ???
 
 ## Calling PAIRS and TWC within Watson Studio
 
-We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this hackathon.  A great introduction to Watson Studio can be fonnd here -> https://github.com/IBMDeveloperUK/python-pandas-workshop.  Go and follow all the step until you get to "Choose new notebook From URL".  Instead of using the .ipynb file shown, use this one ????? since it has calls to PAIRS and TWC APIs.
+We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
+
+Before setting up Watson Studio you need to initialise some Cloud Object Store (COS) to hold any data or artifacts you wish to use.
 
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
 + https://www.w3schools.com/
-
-## get going with Github
-+ https://guides.github.com
-+ https://learn.adafruit.com/an-introduction-to-collaborating-with-version-control/overview
 
 ## Markdown documentation
 for github, essential Markdown cheat sheet
