@@ -54,7 +54,7 @@ All you need to do is register your IBM ID against the PAIRS system - this is ca
 
 - IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
-There are a few short videos [here] (https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc) that you can look at to understand how to use the GUI version of PAIRS.
+There are a few short videos [here](https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc) that you can look at to understand how to use the GUI version of PAIRS.
 
 ### APIs
 There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/
@@ -64,15 +64,15 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 ## TWC
 
 ### APIs
-The full set of TWC APIs is shown [here] (https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
+The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
 
-Some useful information on using TWC APIs is contained in this [PDF] (https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
+Some useful information on using TWC APIs is contained in this [PDF] https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
 
 ## Calling PAIRS and TWC within Watson Studio
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
 
-See [this] (http://????) video
+See [this](http://????) video
 
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
