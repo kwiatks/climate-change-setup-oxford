@@ -1,10 +1,12 @@
-# Climate `change event : 7-9th Feb 2020
+# Climate Change event : 7-9th Feb 2020
 
 ## Get an IBMId and IBM Cloud login
 
 Create your IBM ID account on http://ibm.biz/OxAI-2020-hack. Your username is your Oxford University email address ending in ox.ac.uk and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
 
-Your IBM ID can nbe enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID.
+Your IBM ID can be enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID
+
+Once you have confirmed that an IBM ID has been created the next step is to just login.
 
 Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 
