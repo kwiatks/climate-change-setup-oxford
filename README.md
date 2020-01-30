@@ -2,7 +2,7 @@
 
 ## Get an IBMId and IBM Cloud login
 
-Create your IBM ID account on http://ibm.biz/OxAI-2020-hack. Your username is your Oxford University email address ending in ox.ac.uk and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
+Create your IBM ID account on http://ibm.biz/cloud-account. Your username is your Oxford University email address ending in ox.ac.uk and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
 
 Your IBM ID can be enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID
 
@@ -13,6 +13,8 @@ Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 ## Introductions
 
 ### Architecture
+
+An overview of the architecture is shown below
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
@@ -32,11 +34,11 @@ Test changes from local clone
 
 ## Overview
 
-<Diagram>
+You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The Weather Company (TWC) API calls.  This section outliies how to access them.
 
 ## PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are here https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are [here] (https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx)
 
 ### GUI
 All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
@@ -48,35 +50,29 @@ All you need to do is register your IBM ID against the PAIRS system - this is ca
 - Read the Terms and conditions and click "I accept the terms"
 - You will be presented with the GUI of PAIRS
 - Click the circular symbol to the top right of the screen and check your username is shown
+- You are now part of the Trial group
 
-There are a few short videos here -> https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc that you can look at to understand how to use the GUI version of PAIRS.
+- IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
-You can pick the Clone icon on the Example to have your own version which you can manipulate as required.  For example, scroll down to "UK crop map" and click the clone icon.   
-
-In the Data Explorer view if you know the ID of your dataset then you can enter it's ID in the Search filter field and click enter and the corresponding dataset will be shown.
-
-Once you have decided on the dataset and have shown it on the GUI display you can click anywhere on the map and (if available) a more detailed view of the data *at that point* will be shown.  <need diagram>.  Also, if the Download option is picked the you are presented with some curl commands which can be used to fetch the data from PAIRS directly and stored locally if required.
+There are a few short videos [here] (https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc) that you can look at to understand how to use the GUI version of PAIRS.
 
 ### APIs
 There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/
 
-
-###
-
-<steps on registering your IBM ID so you can call PAIRS>
+In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going [here](http://ibm.biz/pairs-api-register).  Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes).  You will see an ID on the screen, save this away somewhere but you will not need to use it to access the PAIRS APIs.
 
 ## TWC
 
 ### APIs
-The full set of TWC APIs is shown here -> (!) (https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you in the hackathon material.
+The full set of TWC APIs is shown [here] (https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
 
-Some useful information on using TWC APIs is contained in this PDF -> ???
+Some useful information on using TWC APIs is contained in this [PDF] (https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
 
 ## Calling PAIRS and TWC within Watson Studio
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
 
-Before setting up Watson Studio you need to initialise some Cloud Object Store (COS) to hold any data or artifacts you wish to use.
+See [this] (http://????) video
 
 ## handy cheat sheets and tutorials
 HTML, CSS, JSON, bootstrap, colours, SQL, and more
