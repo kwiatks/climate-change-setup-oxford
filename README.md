@@ -38,7 +38,7 @@ You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The We
 
 ## PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are [here] (https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx)
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx)
 
 ### GUI
 All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
@@ -66,7 +66,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 ### APIs
 The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
 
-Some useful information on using TWC APIs is contained in this [PDF] https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
+Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
 
 ## Calling PAIRS and TWC within Watson Studio
 
