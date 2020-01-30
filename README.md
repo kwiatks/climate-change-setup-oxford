@@ -36,7 +36,7 @@ Test changes from local clone
 
 ## PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (one datalayer contains many datasets).  Datalayers that you have access to are ih this -> ???? file and datasets are here -> ???.
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are here https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx
 
 ### GUI
 All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
@@ -68,7 +68,7 @@ There are APIs to access a wide range of interface and are documented here ->  h
 ## TWC
 
 ### APIs
-The full set of TWC APIs is shown here -> https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit.  To access them you will need an API key - this is supplied to you in the hackathon material.
+The full set of TWC APIs is shown here -> (!) (https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you in the hackathon material.
 
 Some useful information on using TWC APIs is contained in this PDF -> ???
 
