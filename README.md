@@ -26,7 +26,11 @@ There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
 
 ### Introduction to The Weather Company (TWC)
 
+The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather.
+
 ### Introduction to Watson Studio
+
+IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio
 
 Test changes from local clone
 
