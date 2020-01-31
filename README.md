@@ -76,12 +76,3 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
 
-See [this](http://????) video
-
-## handy cheat sheets and tutorials
-HTML, CSS, JSON, bootstrap, colours, SQL, and more
-+ https://www.w3schools.com/
-
-## Markdown documentation
-for github, essential Markdown cheat sheet
-+ https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
