@@ -32,8 +32,6 @@ The Weather Company, delivers personalized, actionable insights to consumers and
 
 IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio
 
-Test changes from local clone
-
 ## Detailed steps for this Event
 
 ## Overview
@@ -74,5 +72,6 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 
 ## Calling PAIRS and TWC within Watson Studio
 
-We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
+We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  Once teams have been formed, emails of the technical representatives in each team will be collected and detailed instuctions shared with them.
+
 
