@@ -13,6 +13,7 @@ Login to the https://cloud.ibm.com/login with your IBM ID you just created.
 ## Introductions
 
 <deadline for pairs gui>
+  <room number upstairs - jonny>
 
 ### Architecture
 
