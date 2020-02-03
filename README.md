@@ -59,7 +59,7 @@ All you need to do is register your IBM ID against the PAIRS system - this is ca
 There are a few short videos [here](https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc) that you can look at to understand how to use the GUI version of PAIRS.
 
 ### APIs
-There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/
+There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website since this requires a DIFFERENT password to. your IBM ID one.  We will not be obtaining seperate API passwords for each IBM ID but you will be able to call the PAIRS APIs within Watson Studio via the Proxy server we have setup.
 
 In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going [here](http://ibm.biz/pairs-api-register).  Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes).  You will see an ID on the screen, save this away somewhere but you will not need to use it to access the PAIRS APIs.
 
