@@ -188,22 +188,32 @@ Go to https://cloud.ibm.com/login and login with your IBM ID
 
 
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-cc-find-ws.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-ws.png)
 
 
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-cc-create-ws.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-ws.png)
 
 
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/004-ws.png)
 
 
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/005-ws.png)
 
 
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
- 	002-cc-find-ws.png
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/006-ws.png)
 
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/007-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/008-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/009-ws.png)
