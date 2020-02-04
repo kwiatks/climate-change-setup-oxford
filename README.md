@@ -37,13 +37,13 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 ## Introductions
 
-#### Architecture
+### Architecture
 
 An overview of the architecture is shown below. We have introduced a PAIRS Proxy just for this event so as to be able to hide access to the details of a special username/password which gives us more rights then a standard user would be given.  In a normal architecture this Proxy is not present and an end users access rights are control but which PAIRS group they are assigned to.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
-#### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
+### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
 
 IBM PAIRS (Physical Analytics Integrated Data Repository and Services) GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information.  See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
 
@@ -67,7 +67,7 @@ You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The We
 
 There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event.  We recommend you take some time looking at the contents before using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
 
-### GUI
+### PAIRS GUI
 
 Video and documentation for PAIRS GUI :
 
@@ -76,7 +76,7 @@ Video and documentation for PAIRS GUI :
 
 
 
-### APIs
+### PAIRS APIs
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
