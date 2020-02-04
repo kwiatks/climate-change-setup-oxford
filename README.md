@@ -87,7 +87,7 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 
 ### PAIRS GUI
 
-This section shows how to use the PAIRS GUI functionality in a sample datalayer over Winchester in Hampshire.
+This section shows how to use the PAIRS GUI functionality on a sample datalayer over Winchester in Hampshire.
 
 Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
@@ -184,7 +184,7 @@ We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and 
 
 Go to https://cloud.ibm.com/login and login with your IBM ID
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-ws.png)
 
 
 
@@ -210,38 +210,5 @@ Go to https://cloud.ibm.com/login and login with your IBM ID
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/007-ws.png)
 
+We are now going to import a Project file that contains two Notebooks.  One show how you can get the same data (for the Winchester area) as shown in the PAIRS GUI steps above.  The other Notebook is from the external PAIRS github of https://github.com/IBM/ibmpairs/tree/master/tutorials and shows a wide range oof PAIRS API calls.
 
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/008-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/009-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/012-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/013-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/014-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/015-ws.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/016-ws.png)
