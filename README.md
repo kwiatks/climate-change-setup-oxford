@@ -93,13 +93,17 @@ Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-002.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-003.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-004.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-005.png)
@@ -108,37 +112,49 @@ Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-006.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-007.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-008.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-009.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-010.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-011.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-012.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-013.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-014.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-015.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-016.png)
 
 
+
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-017.png)
+
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
@@ -164,4 +180,30 @@ Make sure you are logged in
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  Once teams have been formed, emails of the technical representatives in each team will be collected and detailed instuctions shared with them.
 
+### Setting up Watson Studio for the first time
+
+Go to https://cloud.ibm.com/login and login with your IBM ID
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-cc-find-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-cc-create-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+ 	002-cc-find-ws.png
 
