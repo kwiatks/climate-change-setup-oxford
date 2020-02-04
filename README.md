@@ -32,7 +32,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 - Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes)
 - You will see an ID on the screen. (like 80889d27-e42a-4e13-8f37-4829659620cc) , save the reply to your own text editor of choice but you do not need it again
-- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email, this confirms you are registered to call the PAIRS API (example : {"_id":"pairs-*<youremail>*","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"})
+- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email, this confirms you are registered to call the PAIRS API (example : {"_id":"pairs-youremail","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"})
 - You will test access to the APIs within a Watson Studio Notebook
 
 ## Introductions
