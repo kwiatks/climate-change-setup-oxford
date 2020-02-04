@@ -94,11 +94,7 @@ Make sure you are logged in
 
 ![](../images/p-gui-002.png)
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
 
 
