@@ -132,20 +132,33 @@ Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-014.png)
 
 
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-015.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-016.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-017.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-019.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-020.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-021.png)
 
 
 
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-022.png)
 
 
 
-
-
-
-
-
-
-
-
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-023.png)
 
 ## Calling PAIRS and TWC APIs within Watson Studio
 
