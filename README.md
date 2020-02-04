@@ -89,7 +89,30 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 
 This section shows how to use the PAIRS GUI functionality in a sample datalayer over Winchester in Hampshire.
 
+Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
+
+![](../images/p-gui-002.png)
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Calling PAIRS and TWC APIs within Watson Studio
 
