@@ -67,14 +67,14 @@ Video and documentation for PAIRS GUI :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
+- Detailed steps are described in ???? below
 
 #### PAIRS APIs
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
-- Swagger https://pairs.res.ibm.com/manual/api-doc/ 
-
-NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality.
+- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality.
+- Detailed steps are described in ??? below
 
 ### TWC
 
@@ -86,6 +86,10 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 ## Details
 
 ### PAIRS GUI
+
+This section shows how to use the PAIRS GUI functionality in a sample datalayer over Winchester in Hampshire.
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
 ## Calling PAIRS and TWC APIs within Watson Studio
 
