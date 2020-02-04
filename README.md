@@ -2,19 +2,15 @@
 
 ## Where the IBM team will be
 
-We will be in the ??? room upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
+We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we require to know their IBM ID by 8:20pm on Fri 7th Feb 2020 so that we are able to add you to some special access that has been arranged for the Event.
+For people who wish to use the PAIRS GUI or PAIRS APIs we need to know your IBM ID by 8:20pm on Fri 7th Feb 2020 so that we are able to add you to a special access that has been arranged for this event.
 
 ## 1. MUST DO : Get an IBM ID
 
-Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
+Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.  An IBM Cloud account would have been provisioned for you.
 
-Your IBM ID can be enabled to a large number of facilities - an IBM Cloud account would have been created for you.
-
-Once you have confirmed that an IBM ID has been created the next step is to just to login.
-
-Login to the https://cloud.ibm.com/login with your IBM ID you just created - you will use this account later.
+Once you have confirmed that an IBM ID has been created login to the https://cloud.ibm.com/login with your IBM ID you just created - you will use this account later.
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
@@ -31,6 +27,12 @@ Login to the https://cloud.ibm.com/login with your IBM ID you just created - you
 - IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
+
+In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going to this website http://ibm.biz/pairs-api-register.  
+
+- Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes)
+- You will see an ID on the screen, save the reply to your own text editor of choice but you do not need it again
+- You will test access to the APIs within a Watson Studio Notebook
 
 ## Introductions
 
@@ -75,10 +77,7 @@ Video and documentation for PAIRS GUI :
 
 ### APIs
 
-MUST DO : In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going to this website http://ibm.biz/pairs-api-register.  
 
-- Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes)
-- You will see an ID on the screen, save the reply to your own text editor of choice but you do not need it again
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
