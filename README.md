@@ -39,7 +39,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 #### Architecture
 
- An overview of the architecture is shown below
+An overview of the architecture is shown below. We have introduced a PAIRS Proxy just for this event so as to be able to hide access to the details of a special username/password which gives us more rights then a standard user would be given.  In a normal architecture this Proxy is not present and an end users access rights are control but which PAIRS group they are assigned to.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
@@ -69,16 +69,14 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 ### GUI
 
-
-
 Video and documentation for PAIRS GUI :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
 
+
+
 ### APIs
-
-
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
