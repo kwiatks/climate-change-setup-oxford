@@ -39,7 +39,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 #### Architecture
 
-An overview of the architecture is shown below
+ An overview of the architecture is shown below
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
