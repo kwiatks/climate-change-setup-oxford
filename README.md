@@ -43,10 +43,12 @@ You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The We
 
 ## PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  This is a one to many relationship (a dataset contains many datalayers).  Datalayers that you have access are [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/PAIRS-datasets-datalayers-lists.xlsx)
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV. file showing the datasets/datalayers will be shared with you during the Event.
 
 ### GUI
-All you need to do is register your IBM ID against the PAIRS system - this is carried out as follows :
+
+MUST DO : Please follow the steps below to register your IBM ID agaist the PAIRS GUI system.
+
 - Go to https://ibmpairs.mybluemix.net/
 - Click "Get Started"
 - Click "Sign in using IBMid"
@@ -59,14 +61,23 @@ All you need to do is register your IBM ID against the PAIRS system - this is ca
 
 - IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
-There are a few short videos [here](https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc) that you can look at to understand how to use the GUI version of PAIRS.
+Video and documentation for PAIRS GUI :
+
+- There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
+- Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
 
 ### APIs
-There are APIs to access a wide range of interface and are documented here ->  https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html and the Swagger link -> https://pairs.res.ibm.com/manual/api-doc/.  
 
-NOTE : you will not be able to use the 'Try it' option in the Swagger website since this requires a DIFFERENT password to your IBM ID one.  We will not be obtaining seperate API passwords for each IBM ID but you will be able to call the PAIRS APIs within Watson Studio via the PAIRS Proxy server we have setup (username=your IBM ID, password=pairs).
+MUST DO : In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going to this website http://ibm.biz/pairs-api-register.  
 
-In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going [here](http://ibm.biz/pairs-api-register).  Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes).  You will see an ID on the screen, save this away somewhere but you will not need to use it to access the PAIRS APIs.
+- Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes)
+- You will see an ID on the screen, save the reply to your own text editor of choice but you do not need it again
+
+Documentation :
+-  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
+- Swagger https://pairs.res.ibm.com/manual/api-doc/ 
+
+NOTE : you will not be able to use the 'Try it' option in the Swagger website 
 
 ## TWC
 
