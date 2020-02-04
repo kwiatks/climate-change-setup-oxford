@@ -183,6 +183,27 @@ We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and 
 ### Setting up Watson Studio for the first time
 
 Go to https://cloud.ibm.com/login and login with your IBM ID
-https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png
 
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-cc-find-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-cc-create-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-cc-dash.png)
+ 	002-cc-find-ws.png
 
