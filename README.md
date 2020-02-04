@@ -6,7 +6,7 @@ We will be in the ??? room upstairs in the Foundry.  Please come along to it to 
 
 For people who wish to use the PAIRS GUI or PAIRS APIs we require to know their IBM ID by 8:20pm on Fri 7th Feb 2020 so that we are able to add you to some special access that has been arranged for the Event.
 
-## Get an IBM ID and access to PAIRS GUI and APIs
+## 1. MUST DO : Get an IBM ID
 
 Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
 
@@ -16,7 +16,21 @@ Once you have confirmed that an IBM ID has been created the next step is to just
 
 Login to the https://cloud.ibm.com/login with your IBM ID you just created - you will use this account later.
 
+## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
+- Go to https://ibmpairs.mybluemix.net/
+- Click "Get Started"
+- Click "Sign in using IBMid"
+- Enter your IBMid and then click Continue
+- Login with your IBMid password
+- Read the Terms and conditions and click "I accept the terms"
+- You will be presented with the GUI of PAIRS
+- Click the circular symbol to the top right of the screen and check your username is shown
+- You are now part of the Trial group
+
+- IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
+
+## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
 ## Introductions
 
@@ -52,19 +66,7 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 ### GUI
 
-MUST DO : Please follow the steps below to register your IBM ID agaist the PAIRS GUI system.
 
-- Go to https://ibmpairs.mybluemix.net/
-- Click "Get Started"
-- Click "Sign in using IBMid"
-- Enter your IBMid and then click Continue
-- Login with your IBMid password
-- Read the Terms and conditions and click "I accept the terms"
-- You will be presented with the GUI of PAIRS
-- Click the circular symbol to the top right of the screen and check your username is shown
-- You are now part of the Trial group
-
-- IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
 Video and documentation for PAIRS GUI :
 
