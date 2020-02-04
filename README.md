@@ -4,20 +4,21 @@
 
 We will be in the ??? room upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
 
-## Get an IBMId and IBM Cloud login
+For people who wish to use the PAIRS GUI or PAIRS APIs we require to know their IBM ID by 8:20pm on Fri 7th Feb 2020 so that we are able to add you to some special access that has been arranged for the Event.
 
-Create your IBM ID account on http://ibm.biz/cloud-account. Your username is your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
+## Get an IBM ID and access to PAIRS GUI and APIs
 
-Your IBM ID can be enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID
+Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
 
-Once you have confirmed that an IBM ID has been created the next step is to just login.
+Your IBM ID can be enabled to a large number of facilities - an IBM Cloud account would have been created for you.
 
-Login to the https://cloud.ibm.com/login with your IBM ID you just created.
+Once you have confirmed that an IBM ID has been created the next step is to just to login.
+
+Login to the https://cloud.ibm.com/login with your IBM ID you just created - you will use this account later.
+
+
 
 ## Introductions
-
-<deadline for pairs gui>
-  <room number upstairs - jonny>
 
 ### Architecture
 
