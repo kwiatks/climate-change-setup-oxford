@@ -1,8 +1,12 @@
 # Climate Change event : 7-9th Feb 2020
 
+## Where the IBM team will be
+
+We will be in the ??? room upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
+
 ## Get an IBMId and IBM Cloud login
 
-Create your IBM ID account on http://ibm.biz/cloud-account. Your username is your Oxford University email address ending in ox.ac.uk and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
+Create your IBM ID account on http://ibm.biz/cloud-account. Your username is your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.
 
 Your IBM ID can be enabled to a large number of facilities - for now you will have had an IBM Cloud instance created for you and linked to your IBM ID
 
@@ -39,11 +43,11 @@ IBM Watson Studio is a data science and machine learning platform built from the
 
 ## Overview
 
-You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The Weather Company (TWC) API calls.  This section outliies how to access them.
+You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The Weather Company (TWC) API calls.  This section outlines how to access them.
 
 ## PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV. file showing the datasets/datalayers will be shared with you during the Event.
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event.  We recommend you take some time looking at the contents before using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
 
 ### GUI
 
@@ -77,7 +81,7 @@ Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
 - Swagger https://pairs.res.ibm.com/manual/api-doc/ 
 
-NOTE : you will not be able to use the 'Try it' option in the Swagger website 
+NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality.
 
 ## TWC
 
