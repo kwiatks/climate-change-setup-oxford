@@ -217,3 +217,31 @@ Go to https://cloud.ibm.com/login and login with your IBM ID
 
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/009-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/012-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/013-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/014-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/015-ws.png)
+
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/016-ws.png)
