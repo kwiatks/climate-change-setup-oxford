@@ -35,7 +35,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email, this confirms you are registered to call the PAIRS API (example : {"_id":"pairs-youremail","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"})
 - You will test access to the APIs within a Watson Studio Notebook
 
-## Introductions
+## Overviews
 
 ### Architecture
 
@@ -57,26 +57,18 @@ The Weather Company, delivers personalized, actionable insights to consumers and
 
 IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio
 
-## Detailed steps for this Event
-
-## Overview
-
-You can use the PAIRS Graphical User Interface (GUI), PAIRS API calls and The Weather Company (TWC) API calls.  This section outlines how to access them.
-
-## PAIRS
+### PAIRS
 
 There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event.  We recommend you take some time looking at the contents before using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
 
-### PAIRS GUI
+#### PAIRS GUI
 
 Video and documentation for PAIRS GUI :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
 
-
-
-### PAIRS APIs
+#### PAIRS APIs
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
@@ -84,14 +76,18 @@ Documentation :
 
 NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality.
 
-## TWC
+### TWC
 
-### APIs
+#### APIs
 The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
 
 Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
 
-## Calling PAIRS and TWC within Watson Studio
+## Details
+
+### PAIRS GUI
+
+## Calling PAIRS and TWC APIs within Watson Studio
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  Once teams have been formed, emails of the technical representatives in each team will be collected and detailed instuctions shared with them.
 
