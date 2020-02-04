@@ -92,7 +92,44 @@ This section shows how to use the PAIRS GUI functionality in a sample datalayer 
 Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
-![](../blob/master/images/p-gui-002.png)
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-002.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-003.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-004.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-005.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-006.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-007.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-008.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-009.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-010.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-011.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-012.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-013.png)
+
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-014.png)
 
 
 
