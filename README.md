@@ -125,9 +125,10 @@ Make sure you are logged in
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-012.png)
 
-
+13-1
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-013.png)
-
+13-2
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-013.png)
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-014.png)
 
