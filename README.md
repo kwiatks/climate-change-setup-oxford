@@ -115,30 +115,31 @@ Enter 49687 and click Search.  On the Search result click "Data Layers"
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-005.png)
 
+Scroll down the pop up and find 49687 and then click "New query using this layer"
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-006.png)
 
-
+Click Next
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-007.png)
 
-
+Zoom the map to the Winchester area (north of Southampton in the South of the UK).  Make sure Rectangle is select and click your mouse once (and then let go) on the map to indicate the start of the rectangle and then drag a rectangle similar to what you see below
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-008.png)
 
-
+Enter the exact date shown below.  You need to click on each date item to change it. **NOTE** : there is a hint on page indicating for what date ranges this datalayer has data for.  This is important since not all datalayers have data for all dates.  Click Next.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-009.png)
 
-
+Do not change an item.  Click Next
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-010.png)
 
-
+Give youe Query a meaninngful name so you can remember what it was doing.  Click "Run query"
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-011.png)
 
-
+In the Query tab your request is shown running.  Time to get a drink or a bite to eat !!  Come back after a few minutes to check on the status
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-012.png)
 
