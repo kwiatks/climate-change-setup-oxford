@@ -35,7 +35,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email, this confirms you are registered to call the PAIRS API (example : {"_id":"pairs-youremail","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"})
 - You will test access to the APIs within a Watson Studio Notebook
 
-## Overviews
+## OVERVIEW
 
 ### Architecture
 
@@ -43,19 +43,13 @@ An overview of the architecture is shown below. We have introduced a PAIRS Proxy
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
-### Introductions to Physical Analytics Integrated Data Repository and Services (PAIRS)
+### Useful links
 
-IBM PAIRS (Physical Analytics Integrated Data Repository and Services) GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information.  See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
+- PAIRS - https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
 
-There is both a Graphical User Interface (GUI) to PAIRS as well as a PAIRS API.
+- TWC - The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather. See https://www.ibm.com/weather
 
-### Introduction to The Weather Company (TWC)
-
-The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather.
-
-### Introduction to Watson Studio
-
-IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio
+- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
 
 ### PAIRS
 
@@ -73,7 +67,7 @@ Video and documentation for PAIRS GUI :
 
 Documentation :
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
-- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality - Watson Studio, Watson Knowledge Catalog, and Watson Machine Learning apps on IBM Cloud - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
+- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality 
 - Detailed steps are described in ??? below
 
 ### TWC
@@ -81,9 +75,14 @@ Documentation :
 #### APIs
 The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
 
-Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf).
+Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
 
-## Details
+### Watson Studio
+
+Documentation : 
+
+
+## DETAILS
 
 ### PAIRS GUI
 
