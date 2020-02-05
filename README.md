@@ -181,7 +181,12 @@ Click on "Developer tools".  This gives the curl command to create exactly the s
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
 
-A sample Project file is [here](???) and will be Imported to your Watson Studio instance.
+We are now going to Import a Project file that contains two Notebooks : 
+
+- Winchester-datalayer-sample : Replicates the same data as shown in the PAIRS GUI steps above
+- External-github-pairs-example : A wide range of calls to multiple datalayers
+
+The Project zip file is located [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Sample-climate-change-project-final-v1.zip).  Please click on this link and download it to your local machine and then follow the steps below.
 
 ### Setting up Watson Studio for the first time
 
@@ -209,7 +214,40 @@ Click the. New. Project button
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/006-ws.png)
 
-We are now going to Import a Project file that contains two Notebooks.  One show how you can get the same data (for the Winchester area) as shown in the PAIRS GUI steps above.  The other Notebook is from the external PAIRS github of https://github.com/IBM/ibmpairs/tree/master/tutorials and shows a wide range of PAIRS API calls.
+Click on Create a project from a sample or file
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/017-ws.png)
+
+In the Upload file section click on **browse** and locate the zip file you downloaded
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/018-ws.png)
+
+Make sure the zip filename is shown.  Name the project, a suggestion is to use your team name in the name somewhere.  Click Create
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/019-ws.png)
+
+Wait for the Import
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/020-ws.png)
+
+Wait for the successfully created promot.  Click View new project
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/020-ws.png)
+
+Click on Assets. You should see two Notebooks
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/021-ws.png)
+
+Click on Winchester-datalayer-sample.  And then click on the Pencil icon
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/022-ws.png)
+
+
+
+
+
+
+
 
 
 
