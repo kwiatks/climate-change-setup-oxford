@@ -37,6 +37,8 @@ You must have done item 1 above before doing this step, you need an active IBM I
 
 In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID.
 
+**NOTE** When you click on the link below you will be asked to fill in your IBM ID and a password.  Do **NOT** enter your IBM ID password in the Password field - put 'pairs' (lowercase, without quotes) instead.
+
 - Go to http://ibm.biz/pairs-api-register 
 - At the username/password prompt, enter your IBM ID (your email)
 - **DO NOT** put your IBM password for password field, just type 'pairs' (lowercase, without quotes)
