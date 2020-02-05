@@ -103,14 +103,6 @@ This section shows how to use the PAIRS GUI functionality on a datalayer over Wi
 Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
-Click on the Example option
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-002.png)
-
-Click on the Queries option
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-003.png)
-
 Click on the "Data Explorer" option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-004.png)
