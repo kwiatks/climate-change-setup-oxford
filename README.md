@@ -10,9 +10,9 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 
 ## 1. MUST DO : Get an IBM ID
 
-Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in *ox.ac.uk* and a password of your choice. You will need to verify your account through the email your receive in your Inbox.  An IBM Cloud account would have been provisioned for you.
+Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice. You will need to verify your account through the email your receive in your Inbox.  An IBM Cloud account would have been provisioned for you.
 
-Once you have confirmed that an IBM ID has been created login to the https://cloud.ibm.com/login with your IBM ID you just created - you will use this account later.
+Once you have confirmed that an IBM ID has been created, login to the https://cloud.ibm.com/login with it - you will use this account later.
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
@@ -21,15 +21,15 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Go to https://ibmpairs.mybluemix.net/
 - **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
 - Click "Get Started"
-- Click "Sign in using IBMid"
-- Enter your IBMid and then click Continue
+- Click "Sign in using IBM ID"
+- Enter your IBM ID and then click Continue
 - Login with your IBMid password
 - Read the Terms and conditions and click "I accept the terms"
 - You will be presented with the GUI of PAIRS
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Pass on your IBM ID (which is your email) to one of the IBM team (who will be in the Large Meeting Room (LMR) from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
+- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
@@ -40,7 +40,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Go to http://ibm.biz/pairs-api-register 
 - At the username/password prompt, enter your IBM ID (your email)
 - **DO NOT** put your IBM password for password field, just type 'pairs' (lowercase, without quotes)
-- You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice
+- You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to your text editor of choice
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID (ie. your email)**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
 - Save away the reply
 - You will not need to use the reply text but it will be useful to have to show IBMers that you have followed the above steps for any debug steps
@@ -159,8 +159,7 @@ Click on the red area with your mouse and look at the value again - you will see
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-016.png)
 
-Zoom further into the map and change the Opacity so you can see the map a little more clearly.  This shows that a local college was creating a large amount of heat at a specific date and we suspect possibly a chemistry experiment might have created this !!!
-
+Zoom further into the map and change the Opacity so you can see the map a little more clearly
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
 
