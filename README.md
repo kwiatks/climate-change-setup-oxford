@@ -41,7 +41,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice but you do not need it again
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID (ie. your email)**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
 - Save away the reply your text editor of choice
-- You will not need to use the reply text but it will be useful to 
+- You will not need to use the reply text but it will be useful to have to show IBMers that you have followed the above steps
 
 ## OVERVIEW
 
