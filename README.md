@@ -179,27 +179,29 @@ Click on "Developer tools".  This gives the curl command to create exactly the s
 
 ## Calling PAIRS and TWC APIs within Watson Studio
 
-We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  Once teams have been formed, emails of the technical representatives in each team will be collected and the. Project zip file will be sent to them.
+We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
+
+A sample Project file is [here](???) and will be Imported to your Watson Studio instance.
 
 ### Setting up Watson Studio for the first time
 
-Go to https://cloud.ibm.com/login and login with your IBM ID
+Go to https://cloud.ibm.com/login and login with your IBM ID.  You should see the Dashboard page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-ws.png)
 
-
+Type 'watson studio' in the Search filed
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-ws.png)
 
-
+Click on the Watson Studio icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-ws.png)
 
-
+Make sure the Lite Plan is picked and click Create
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/004-ws.png)
 
-
+Click the Get Started button
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/005-ws.png)
 
