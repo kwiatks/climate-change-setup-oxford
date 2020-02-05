@@ -260,7 +260,15 @@ Click Restart and Run All Cells
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/028-ws.png)
 
+The page will jump to the end of the Notebook to show that all Cells will be run in sequence
 
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/029-ws.png)
+
+Scroll to the top and you will see various Cells being executed.  Ones that have a " * " indicate that the Cell is still running.  Once the Notebook has completed then you can see the outputs from each Cell
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/030-ws.png)
+
+Look at the Notebook to see how various PAIRS APIs are used.  Good luck on your teams activities !!!
 
 
 
