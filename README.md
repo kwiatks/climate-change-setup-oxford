@@ -4,7 +4,9 @@
 
 We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3  by **8:30pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
+## Important : must do by 8:40pm on Friday 7th Feb
+
+For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3  by **8:40pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
 
 ## 1. MUST DO : Get an IBM ID
 
@@ -26,7 +28,7 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:30pm on Fri 7th Feb 2020, we are unable to do this on Saturday. or Sunday.
+- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
