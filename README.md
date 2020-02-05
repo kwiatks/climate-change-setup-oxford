@@ -91,7 +91,7 @@ Documentation :
 
 ## DETAILS
 
-[pairs-gui-anchor]### AIRS GUI
+### AIRS GUI
 
 This section shows how to use the PAIRS GUI functionality on a datalayer over Winchester in Hampshire.
 
