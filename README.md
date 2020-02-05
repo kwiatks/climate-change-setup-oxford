@@ -14,6 +14,8 @@ Once you have confirmed that an IBM ID has been created login to the https://clo
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
+You must have done item 1 above before doing this step, you need an active IBM ID.
+
 - Go to https://ibmpairs.mybluemix.net/
 - Click "Get Started"
 - Click "Sign in using IBMid"
@@ -24,16 +26,20 @@ Once you have confirmed that an IBM ID has been created login to the https://clo
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- IMPORTANT : Notify the IBM team of your IBM ID (your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
+- IMPORTANT : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
-In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID by going to this website http://ibm.biz/pairs-api-register.  
+You must have done item 1 above before doing this step, you need an active IBM ID.
 
-- Enter your IBM ID (email) and for the password enter 'pairs' (lowercase, without quotes)
-- You will see an ID on the screen. (like 80889d27-e42a-4e13-8f37-4829659620cc) , save the reply to your own text editor of choice but you do not need it again
-- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email, this confirms you are registered to call the PAIRS API (example : {"_id":"pairs-youremail","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"})
-- You will test access to the APIs within a Watson Studio Notebook
+In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID.
+
+- Go to http://ibm.biz/pairs-api-register 
+- At the username/password prompt, enter your IBM ID (your email) and for the password enter 'pairs' (lowercase, without quotes)
+- You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice but you do not need it again
+- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-*youremail*","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
+- Save away the reply your text editor of choice
+- You will not need to use the reply text but it will be useful to 
 
 ## OVERVIEW
 
