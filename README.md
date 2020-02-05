@@ -189,15 +189,14 @@ Go to https://cloud.ibm.com/login and login with your IBM ID.  You should see th
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/001-ws.png)
 
-Type 'watson studio' in the Search filed
+Type 'watson studio' in the Search field, the icon with auto filter.  Click on the Watson Studio icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/002-ws.png)
 
-Click on the Watson Studio icon
+Make sure the Lite Plan is picked and click Create
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-ws.png)
 
-Make sure the Lite Plan is picked and click Create
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/004-ws.png)
 
