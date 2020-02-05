@@ -19,6 +19,7 @@ Once you have confirmed that an IBM ID has been created login to the https://clo
 You must have done item 1 above before doing this step, you need an active IBM ID.
 
 - Go to https://ibmpairs.mybluemix.net/
+- **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
 - Click "Get Started"
 - Click "Sign in using IBMid"
 - Enter your IBMid and then click Continue
@@ -39,10 +40,10 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Go to http://ibm.biz/pairs-api-register 
 - At the username/password prompt, enter your IBM ID (your email)
 - **DO NOT** put your IBM password for password field, just type 'pairs' (lowercase, without quotes)
-- You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice but you do not need it again
+- You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID (ie. your email)**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
-- Save away the reply your text editor of choice
-- You will not need to use the reply text but it will be useful to have to show IBMers that you have followed the above steps
+- Save away the reply
+- You will not need to use the reply text but it will be useful to have to show IBMers that you have followed the above steps for any debug steps
 
 ## OVERVIEW
 
