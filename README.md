@@ -197,14 +197,15 @@ Make sure the Lite Plan is picked and click Create
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/003-ws.png)
 
+Click the Get Started button
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/004-ws.png)
 
-Click the Get Started button
+Click the Get Started button again
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/005-ws.png)
 
-
+Click the. New. Project button
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/006-ws.png)
 
