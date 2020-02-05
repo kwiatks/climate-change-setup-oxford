@@ -240,8 +240,25 @@ Click on Winchester-datalayer-sample.  And then click on the Pencil icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/023-ws.png)
 
-Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
+Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts
 
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/024-ws.png)
+
+**VERY IMPORTANT** Change <enter your IBM ID here> to your IBM ID leaving all other parameters As-is
+  
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/025-ws.png)
+
+Save the Notebook. **IMPORTANT** Please regularly click this icon when making changes so that any changes are saved
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/026-ws.png)
+
+Click the Restart Kernel and run the whole Notebook icon
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/027-ws.png)
+
+Click Restart and Run All Cells
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/028-ws.png)
 
 
 
