@@ -26,7 +26,7 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- IMPORTANT : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.
+- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out between 8-9pm on Fri 7th Feb 2020, we are unable to do this on Saturday.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
@@ -63,18 +63,19 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 #### PAIRS GUI
 
-Video and documentation for PAIRS GUI.  We recomend quickly going through the 
+Video and documentation for PAIRS GUI.  We recomend quickly going through the video to become familiar withh the interface and then go to the step by step instructions :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
-- Detailed steps are described [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#pairs-gui) below
+- Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#pairs-gui)
 
 #### PAIRS APIs
 
-Documentation :
+Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with the APIs and then go to the step by step instructions :
+
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
-- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website - contact one of the IBMers if you need to run the Swagger functionality 
-- Detailed steps are described in ??? below
+- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage
+- Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio) below
 
 ### TWC
 
@@ -98,15 +99,15 @@ This section shows how to use the PAIRS GUI functionality on a datalayer over Wi
 Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
 
-
+Click on the Example option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-002.png)
 
-
+Click on the ?? option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-003.png)
 
-
+lick on the ?? option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-004.png)
 
