@@ -49,9 +49,9 @@ An overview of the architecture is shown below. We have introduced a PAIRS Proxy
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
-### Useful links
+### Useful background links
 
-- PAIRS - https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
+- PAIRS - IBM PAIRS GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information. See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
 
 - TWC - The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather. See https://www.ibm.com/weather
 
@@ -59,7 +59,7 @@ An overview of the architecture is shown below. We have introduced a PAIRS Proxy
 
 ### PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event.  We recommend you take some time looking at the contents before using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event (it will be emailed to you).  We recommend you take some time looking at the contents **before** using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
 
 #### PAIRS GUI
 
