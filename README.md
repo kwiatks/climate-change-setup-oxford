@@ -4,7 +4,7 @@
 
 We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we need to know your IBM ID by **8:20pm on Fri 7th Feb 2020** so that we are able to add you to a special access that has been arranged for this event.
+For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3  by **8:30pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
 
 ## 1. MUST DO : Get an IBM ID
 
@@ -26,7 +26,7 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out between 8-9pm on Fri 7th Feb 2020, we are unable to do this on Saturday.
+- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:30pm on Fri 7th Feb 2020, we are unable to do this on Saturday. or Sunday.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
@@ -80,7 +80,7 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 ### TWC
 
 #### APIs
-The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an API key - this is supplied to you during the Event by the IBM team.
+We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an two API keys - this is supplied to you during the Event by the IBM team (will be emailed to you using whatever email you used in steps 1 to 3 at the top of this README).
 
 Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
 
@@ -103,15 +103,15 @@ Click on the Example option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-002.png)
 
-Click on the ?? option
+Click on the Queries option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-003.png)
 
-lick on the ?? option
+Click on the "Data Explorer" option
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-004.png)
 
-
+Enter 49687 and click Search.  On the Search result click "Data Layers"
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-005.png)
 
