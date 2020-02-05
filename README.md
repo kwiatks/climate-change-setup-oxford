@@ -162,6 +162,7 @@ Click on the image and press the "Download CSV" button
 A CSV file is created with the values of the point for a range of dates
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-023.png)
+
 From the PAIRS GUI there are a range of option when you click the Actions option on the top left of the page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-019.png)
