@@ -157,20 +157,18 @@ Click on the red area with your mouse and look at the value again - you will see
 
 Zoom further into the map and change the Opacity so you can see the map a little more clearly.  This shows that a local college was creating a large amount of heat at a specific date and we suspect possibly a chemistry experiment might have created this !!!
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-017.png)
-
-Fromthe PAIRS GUI there are a range of option when you click the Actions option on the top left of the page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
 
-Click "Download data".  This will download a zip file to your local machine and this can be viewed in applications like QGIS.
+From the PAIRS GUI there are a range of option when you click the Actions option on the top left of the page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-019.png)
 
-Click on "Developer tools".  This gives the curl command to create exactly the same query you created manually and another curl command to check the query has finished
+Click "Download data".  This will download a zip file to your local machine and this can be viewed in applications like QGIS.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-020.png)
 
+Click on "Developer tools".  This gives the curl command to create exactly the same query you created manually and another curl command to check the query has finished
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-021.png)
 
