@@ -29,7 +29,7 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Notify the IBM team of your IBM ID (which is your email) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
+- **VERY IMPORTANT** : Pass on your IBM ID (which is your email) to one of the IBM team (who will be in the Large Meeting Room (LMR) from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
