@@ -155,6 +155,13 @@ Zoom further into the map and change the Opacity so you can see the map a little
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
 
+Click on the image and press the "Download CSV" button
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-022.png)
+
+A CSV file is created with the values of the point for a range of dates
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-023.png)
 From the PAIRS GUI there are a range of option when you click the Actions option on the top left of the page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-019.png)
@@ -168,12 +175,6 @@ Click on "Developer tools".  This gives the curl command to create exactly the s
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-021.png)
 
 
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-022.png)
-
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-023.png)
 
 ## Calling PAIRS and TWC APIs within Watson Studio
 
