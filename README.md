@@ -63,7 +63,7 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 #### PAIRS GUI
 
-Video and documentation for PAIRS GUI :
+Video and documentation for PAIRS GUI.  We recomend quickly going through the 
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
@@ -87,10 +87,11 @@ Some useful information on using TWC APIs is contained in this [PDF](https://git
 
 Documentation : 
 
+- https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html?context=analytics&linkInPage=true
 
 ## DETAILS
 
-### PAIRS GUI
+[pairs-gui-anchor]### AIRS GUI
 
 This section shows how to use the PAIRS GUI functionality on a datalayer over Winchester in Hampshire.
 
@@ -211,7 +212,7 @@ Go to https://cloud.ibm.com/login and login with your IBM ID
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/006-ws.png)
 
-We are now going to Import a Project file that contains two Notebooks.  One show how you can get the same data (for the Winchester area) as shown in the PAIRS GUI steps above.  The other Notebook is from the external PAIRS github of https://github.com/IBM/ibmpairs/tree/master/tutorials and shows a wide range oof PAIRS API calls.
+We are now going to Import a Project file that contains two Notebooks.  One show how you can get the same data (for the Winchester area) as shown in the PAIRS GUI steps above.  The other Notebook is from the external PAIRS github of https://github.com/IBM/ibmpairs/tree/master/tutorials and shows a wide range of PAIRS API calls.
 
 
 
