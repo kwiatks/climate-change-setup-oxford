@@ -4,7 +4,7 @@
 
 We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we need to know your IBM ID by 8:20pm on Fri 7th Feb 2020 so that we are able to add you to a special access that has been arranged for this event.
+For people who wish to use the PAIRS GUI or PAIRS APIs we need to know your IBM ID by **8:20pm on Fri 7th Feb 2020** so that we are able to add you to a special access that has been arranged for this event.
 
 ## 1. MUST DO : Get an IBM ID
 
@@ -37,7 +37,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Go to http://ibm.biz/pairs-api-register 
 - At the username/password prompt, enter your IBM ID (your email) and for the password enter 'pairs' (lowercase, without quotes)
 - You will see an on token ID on the screen (example 80889d27-e42a-4e13-8f37-4829659620cc, your token ID will be different to this), save the reply to your text editor of choice but you do not need it again
-- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-*youremail*","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
+- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID (ie. your email)**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
 - Save away the reply your text editor of choice
 - You will not need to use the reply text but it will be useful to 
 
