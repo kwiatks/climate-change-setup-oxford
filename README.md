@@ -67,7 +67,7 @@ Video and documentation for PAIRS GUI.  We recomend quickly going through the
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
-- Detailed steps are described in ???? below
+- Detailed steps are described [here] (https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#pairs-gui) below
 
 #### PAIRS APIs
 
@@ -91,7 +91,7 @@ Documentation :
 
 ## DETAILS
 
-### AIRS GUI
+### PAIRS GUI
 
 This section shows how to use the PAIRS GUI functionality on a datalayer over Winchester in Hampshire.
 
