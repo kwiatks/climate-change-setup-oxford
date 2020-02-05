@@ -10,9 +10,9 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 
 ## 1. MUST DO : Get an IBM ID
 
-Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice. You will need to verify your account through the email your receive in your Inbox.  An IBM Cloud account would have been provisioned for you.
+Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice. YAn IBM Cloud account will then be automatically provisioned for you.  You will need to verify your account through the email you receive in your Inbox. 
 
-Once you have confirmed that an IBM ID has been created, login to the https://cloud.ibm.com/login with it - you will use this account later.
+Login to the https://cloud.ibm.com/login - you will use this account later.
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
@@ -51,7 +51,10 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 ### Architecture
 
-An overview of the architecture is shown below. We have introduced a PAIRS Proxy just for this event so as to be able to hide access to the details of a special username/password which gives us more rights then a standard user would be given.  In a normal architecture this Proxy is not present and an end users access rights are control but which PAIRS group they are assigned to.
+An overview of the architecture is shown below. 
+
+For this event, we have created a PAIRS Proxy to provide more rights than a standard User would be given.  In a normal architecture this Proxy is not present and an end users access rights are controlled by the PAIRS group they are assigned 
+to.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
@@ -61,7 +64,7 @@ An overview of the architecture is shown below. We have introduced a PAIRS Proxy
 
 - TWC - The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather. See https://www.ibm.com/weather
 
-- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
+- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  Watson Studio can exist in the IBM Cloud or other provider, see https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
 
 ### PAIRS
 
