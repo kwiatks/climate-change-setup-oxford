@@ -175,8 +175,6 @@ Click on "Developer tools".  This gives the curl command to create exactly the s
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-021.png)
 
-
-
 ## Calling PAIRS and TWC APIs within Watson Studio
 
 We will be using IBM Watson Studio and Jupyter Notebooks to call both PAIRS and TWC APIs for this event.  
@@ -230,17 +228,19 @@ Wait for the Import
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/020-ws.png)
 
-Wait for the successfully created promot.  Click View new project
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/020-ws.png)
-
-Click on Assets. You should see two Notebooks
+Wait for the successfully created prompt.  Click View all projects
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/021-ws.png)
 
-Click on Winchester-datalayer-sample.  And then click on the Pencil icon
+Click on Assets. You should see two Notebooks
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/022-ws.png)
+
+Click on Winchester-datalayer-sample.  And then click on the Pencil icon
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/023-ws.png)
+
+Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
 
 
 
