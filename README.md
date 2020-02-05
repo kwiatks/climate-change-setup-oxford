@@ -94,7 +94,7 @@ Documentation :
 
 ### PAIRS GUI
 
-This section shows how to use the PAIRS GUI functionality on a datalayer over Winchester in Hampshire.
+This section shows how to use the PAIRS GUI functionality on a datalayer over Winchester in Hampshire.  It shows how we can use a satellite image to identify an abmormally high value of heat being generated at a specific date in 2019.
 
 Make sure you are logged in
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-001.png)
@@ -127,7 +127,7 @@ Zoom the map to the Winchester area (north of Southampton in the South of the UK
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-008.png)
 
-Enter the exact date shown below.  You need to click on each date item to change it. **NOTE** : there is a hint on page indicating for what date ranges this datalayer has data for.  This is important since not all datalayers have data for all dates.  Click Next.
+Enter the exact date shown below.  You need to click on each date item to change it. **NOTE** : there is a hint on page indicating for what date ranges this datalayer has data for.  This is important since not all datalayers have data for all dates.  We (IBM) asked for specific data to be created to cover IBM Hurlsey which is close to Wiinchester.  Click Next.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-009.png)
 
@@ -135,7 +135,7 @@ Do not change an item.  Click Next
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-010.png)
 
-Give youe Query a meaninngful name so you can remember what it was doing.  Click "Run query"
+Give youe Query a meaningful name so you can remember what it was doing.  Click "Run query"
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-011.png)
 
@@ -143,33 +143,31 @@ In the Query tab your request is shown running.  Time to get a drink or a bite t
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-012.png)
 
-
+Once completed your query will be shown in the "Recent Queries" section of the Queries tab/. Click on the image
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-013.png)
 
-
-
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-014.png)
-
-
+You might just be able to see a red dot in the centre of the image.  Zoom in. to take a closer look.  In the below image, we have clicked on the map just to the left of the red dot - a graph is shown of some historic values at this point.  This shows the value of data at this point as defined in the Legend.  Note the value.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-015.png)
 
-
+Click on the red area with your mouse and look at the value again - you will see that it is higher then the previous click that was carried out
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-016.png)
 
-
+Zoom further into the map and change the Opacity so you can see the map a little more clearly.  This shows that a local college was creating a large amount of heat at a specific date and we suspect possibly a chemistry experiment might have created this !!!
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-017.png)
 
-
+Fromthe PAIRS GUI there are a range of option when you click the Actions option on the top left of the page
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-018.png)
 
+Click "Download data".  This will download a zip file to your local machine and this can be viewed in applications like QGIS.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-019.png)
 
+Click on "Developer tools".  This gives the curl command to create exactly the same query you created manually and another curl command to check the query has finished
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/p-gui-020.png)
 
