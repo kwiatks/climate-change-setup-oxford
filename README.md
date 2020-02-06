@@ -8,15 +8,16 @@ We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come
 
 For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **8:40pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
 
-## 1. MUST DO : Get an IBM ID
+## 1. MUST DO : Get an IBM ID and IBM Cloud account
 
-Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice. YAn IBM Cloud account will then be automatically provisioned for you.  You will need to verify your account through the email you receive in your Inbox. 
-
-Login to the https://cloud.ibm.com/login - you will use this account later.
+- Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice
+- An IBM ID and IBM Cloud account will be automatically provisioned for you.  The IBM ID is your email
+- Verify your account through the email you receive in your Inbox
+- Login to the https://cloud.ibm.com/login to check that you see the initial Dashboard page -  you will use this account when using Watson Studio
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
-You must have done item 1 above before doing this step, you need an active IBM ID.
+You must have done step 1 above before doing this step, an active IBM ID is required.
 
 - Go to https://ibmpairs.mybluemix.net/
 - **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
@@ -29,18 +30,18 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet.
+- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
-You must have done item 1 above before doing this step, you need an active IBM ID.
+You must have done step 1 above before doing this step, an active IBM ID is required.
 
 In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID.
 
 **NOTE** When you click on the link below you will be asked to fill in your IBM ID and a password.  Do **NOT** enter your IBM ID password in the Password field - put 'pairs' (lowercase, without quotes) instead.
 
 - Go to http://ibm.biz/pairs-api-register 
-- At the username/password prompt, enter your IBM ID.  **DO NOT** put your IBM password for password field, just type 'pairs' (lowercase, without quotes). Click OK
+- At the username/password prompt, enter your IBM ID.  **DO NOT** use your IBM password for password field, just type 'pairs' (lowercase, without quotes). Click OK
 - You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to a text editor of your choice
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
 - Save away the reply to a text editor of your choice
