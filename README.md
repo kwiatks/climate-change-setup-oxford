@@ -224,6 +224,26 @@ Click on Create a project from a sample or file
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/017-ws.png)
 
+We now need to create a Cloud Object Store for Watson Studio to use.  On the right of the screen in the Definie storage section click Add
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/008-ws.png)
+
+You will see the Cloud Object Storage page
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/009-ws.png)
+
+Scroll down and click Create
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+
+Click Confirm
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+
+Click Refresh and make sure ann entry appears under the Storage section
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
+
 In the Upload file section click on **browse** and locate the zip file you downloaded
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/018-ws.png)
