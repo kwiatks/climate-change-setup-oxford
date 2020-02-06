@@ -2,21 +2,22 @@
 
 ## Where the IBM team will be
 
-We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request.
+We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request via the Mentor request booking system.
 
 ## Important : must do by 8:40pm on Friday 7th Feb
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3  by **8:40pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
+For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **8:40pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
 
-## 1. MUST DO : Get an IBM ID
+## 1. MUST DO : Get an IBM ID and IBM Cloud account
 
-Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice. You will need to verify your account through the email your receive in your Inbox.  An IBM Cloud account would have been provisioned for you.
-
-Once you have confirmed that an IBM ID has been created, login to the https://cloud.ibm.com/login with it - you will use this account later.
+- Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice
+- An IBM ID and IBM Cloud account will be automatically provisioned for you.  The IBM ID is your email
+- Verify your account through the email you receive in your Inbox
+- Login to the https://cloud.ibm.com/login to check that you see the initial Dashboard page -  you will use this account when using Watson Studio
 
 ## 2. MUST DO : Register your IBM ID to get access to PAIRS GUI
 
-You must have done item 1 above before doing this step, you need an active IBM ID.
+You must have done step 1 above before doing this step, an active IBM ID is required.
 
 - Go to https://ibmpairs.mybluemix.net/
 - **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
@@ -29,27 +30,34 @@ You must have done item 1 above before doing this step, you need an active IBM I
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.
+- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
-You must have done item 1 above before doing this step, you need an active IBM ID.
+You must have done step 1 above before doing this step, an active IBM ID is required.
 
 In order to allow your IBM ID access to the PAIRS APIs you will need to register your IBM ID.
 
+**NOTE** When you click on the link below you will be asked to fill in your IBM ID and a password.  Do **NOT** enter your IBM ID password in the Password field - put 'pairs' (lowercase, without quotes) instead.
+
 - Go to http://ibm.biz/pairs-api-register 
-- At the username/password prompt, enter your IBM ID (your email)
-- **DO NOT** put your IBM password for password field, just type 'pairs' (lowercase, without quotes)
-- You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to your text editor of choice
-- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID (ie. your email)**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs
-- Save away the reply
-- You will not need to use the reply text but it will be useful to have to show IBMers that you have followed the above steps for any debug steps
+- At the username/password prompt, enter your IBM ID.  **DO NOT** use your IBM password for password field, just type 'pairs' (lowercase, without quotes). Click OK
+- You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to a text editor of your choice
+- Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
+- Save away the reply to a text editor of your choice
+
+## 4. Datasets and DataLayers
+
+We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attend the 8-9pm session.
 
 ## OVERVIEW
 
 ### Architecture
 
-An overview of the architecture is shown below. We have introduced a PAIRS Proxy just for this event so as to be able to hide access to the details of a special username/password which gives us more rights then a standard user would be given.  In a normal architecture this Proxy is not present and an end users access rights are control but which PAIRS group they are assigned to.
+An overview of the architecture is shown below. 
+
+For this event, we have created a PAIRS Proxy to provide more rights than a standard User would be given.  In a normal architecture this Proxy is not present and an end users access rights are controlled by the PAIRS group they are assigned 
+to.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/ox-architecture.png)
 
@@ -59,7 +67,7 @@ An overview of the architecture is shown below. We have introduced a PAIRS Proxy
 
 - TWC - The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather. See https://www.ibm.com/weather
 
-- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
+- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  Watson Studio can exist in the IBM Cloud as well as locally within your own in-premise data centre or even be installed in other Cloud providers solutions.  See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
 
 ### PAIRS
 
@@ -79,14 +87,14 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 
 -  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
 - Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage
-- Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio) below
+- Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio)
 
 ### TWC
 
 #### APIs
-We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  To access them you will need an two API keys - this is supplied to you during the Event by the IBM team (will be emailed to you using whatever email you used in steps 1 to 3 at the top of this README).
+We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  The API keys can be obtained from the IBM team at either the 8-9pm event or at any time on Saturday or Sunday.
 
-Some useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
+Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
 
 ### Watson Studio
 
@@ -215,6 +223,26 @@ Click the. New. Project button
 Click on Create a project from a sample or file
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/017-ws.png)
+
+We now need to create a Cloud Object Store for Watson Studio to use.  On the right of the screen in the Definie storage section click Add
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/008-ws.png)
+
+You will see the Cloud Object Storage page
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/009-ws.png)
+
+Scroll down and click Create
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+
+Click Confirm
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+
+Click Refresh and make sure ann entry appears under the Storage section
+
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
 
 In the Upload file section click on **browse** and locate the zip file you downloaded
 
