@@ -238,17 +238,17 @@ Scroll down and click Create
 
 Click Confirm
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/010-ws.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
 
 Click Refresh and make sure ann entry appears under the Storage section
 
-![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/011-ws.png)
+![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/031-ws.png)
 
 In the Upload file section click on **browse** and locate the zip file you downloaded
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/018-ws.png)
 
-Make sure the zip filename is shown.  Name the project, a suggestion is to use your team name in the name somewhere.  Click Create
+Make sure the zip filename is shown.  Name the project (a suggestion is to use your team name in the name somewhere in the project name).  Click Create
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/019-ws.png)
 
