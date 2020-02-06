@@ -45,7 +45,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
 - Save away the reply to a text editor of your choice
 
-## 4. Datasets and Datalayers
+## 4. Datasets and DataLayers
 
 We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attend the 8-9pm session.
 
