@@ -20,7 +20,7 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 You must have done step 1 above before doing this step, an active IBM ID is required.
 
 - Go to https://ibmpairs.mybluemix.net/
-- **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
+- **NOTE** we have seen issues in the Safari browser that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
 - Click "Get Started"
 - Click "Sign in using IBM ID"
 - Enter your IBM ID and then click Continue
