@@ -40,7 +40,12 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 **NOTE** When you click on the link below you will be asked to fill in your IBM ID and a password.  Do **NOT** enter your IBM ID password in the Password field - put 'pairs' (lowercase, without quotes) instead.
 
-- Go to http://ibm.biz/pairs-api-register 
+- Go to : did not work on 7th at 1124am :  http://ibm.biz/pairs-api-register 
+
+https://oxaihack2020.eu-gb.mybluemix.net/api-auth
+https://oxaihack2020.eu-gb.cf.appdomain.cloud/api-auth
+
+
 - At the username/password prompt, enter your IBM ID.  **DO NOT** use your IBM password for password field, just type 'pairs' (lowercase, without quotes). Click OK
 - You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to a text editor of your choice
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
