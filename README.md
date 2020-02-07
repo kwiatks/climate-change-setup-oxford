@@ -10,6 +10,8 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 
 ## 1. MUST DO : Get an IBM ID and IBM Cloud account
 
+test
+
 - Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice
 - An IBM ID and IBM Cloud account will be automatically provisioned for you.  The IBM ID is your email
 - Verify your account through the email you receive in your Inbox
