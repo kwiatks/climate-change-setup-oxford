@@ -95,7 +95,7 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 #### APIs
 We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  The API keys can be obtained from the IBM team at either the 8-9pm event or at any time on Saturday or Sunday.
 
-Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
+Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC-Data-Package-Summary.pdf)
 
 ### Watson Studio
 
