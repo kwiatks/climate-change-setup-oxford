@@ -28,9 +28,7 @@ You must have done step 1 above before doing this step, an active IBM ID is requ
 - Read the Terms and conditions and click "I accept the terms"
 - You will be presented with the GUI of PAIRS
 - Click the circular symbol to the top right of the screen and check your username is shown
-- You are now part of the Trial group
-
-- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 7:55pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
+- You are now part of the Trial group.  The PAIRS team will monitor all users with **ox.ac.uk** in their email and move them to the Oxford group to give you access to a large number of datalayers in PAIRS
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
@@ -51,7 +49,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
 
-XLS file is [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
+Spreadsheet file is [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
 
 
 ## 5. TWC API-keys
@@ -101,7 +99,7 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 ### TWC
 
 #### APIs
-We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  The API keys can be obtained from the IBM team at either the 8-9pm event or at any time on Saturday or Sunday.
+We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit)
 
 Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC-Data-Package-Summary.pdf)
 
@@ -277,7 +275,9 @@ Click on Winchester-datalayer-sample.  And then click on the Pencil icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/023-ws.png)
 
-Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts
+Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
+
+If you create a new Notebook always pick "1vCPU and 4 GB RAM and is free" for the environment otherwise your Lite IBM Cloud account will use it's resources and there will become a point where the Notebook will be locked unless  you revert back to the "1vCPU and 4 GB RAM and is free" level.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/024-ws.png)
 
