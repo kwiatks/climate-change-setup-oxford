@@ -48,7 +48,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 ## 4. Datasets and DataLayers
 
-We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attend the 8-9pm session.
+We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attends the Friday 8-9pm session.
 
 ## OVERVIEW
 
@@ -71,11 +71,11 @@ to.
 
 ### PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event (it will be emailed to you).  We recommend you take some time looking at the contents **before** using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  There are "Datasets" and "DataLayers". There is a one to many relationship (a dataset contains one or more datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event (see Step 2 above).  We recommend you take some time looking at the contents **before** using the GUI and/or APIs to determine if some DataLayers are relevant to your idea.
 
 #### PAIRS GUI
 
-Video and documentation for PAIRS GUI.  We recomend quickly going through the video to become familiar withh the interface and then go to the step by step instructions :
+We recomend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
@@ -85,8 +85,9 @@ Video and documentation for PAIRS GUI.  We recomend quickly going through the vi
 
 Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with the APIs and then go to the step by step instructions :
 
--  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
-- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage
+-  Online PAIRS API Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
+- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage. You can of course call the APIs when within Watsoon Studio (see below).
+
 - Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio)
 
 ### TWC
