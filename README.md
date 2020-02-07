@@ -10,7 +10,7 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 
 ## 1. MUST DO : Get an IBM ID and IBM Cloud account
 
-- Go to http://ibm.biz/cloud-account and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice
+- Go to https://ibm.biz/Bdzwwi and fill in the form using your Oxford University email address ending in **ox.ac.uk** and a password of your choice
 - An IBM ID and IBM Cloud account will be automatically provisioned for you.  The IBM ID is your email
 - Verify your account through the email you receive in your Inbox
 - Login to the https://cloud.ibm.com/login to check that you see the initial Dashboard page -  you will use this account when using Watson Studio
@@ -20,7 +20,7 @@ For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carri
 You must have done step 1 above before doing this step, an active IBM ID is required.
 
 - Go to https://ibmpairs.mybluemix.net/
-- **NOTE** we have seen issues that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
+- **NOTE** we have seen issues in the Safari browser that a blank page is returned the first time you go to this link.  Just Refresh and all should be OK
 - Click "Get Started"
 - Click "Sign in using IBM ID"
 - Enter your IBM ID and then click Continue
@@ -30,7 +30,7 @@ You must have done step 1 above before doing this step, an active IBM ID is requ
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
+- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 7:55pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
@@ -40,7 +40,8 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 **NOTE** When you click on the link below you will be asked to fill in your IBM ID and a password.  Do **NOT** enter your IBM ID password in the Password field - put 'pairs' (lowercase, without quotes) instead.
 
-- Go to http://ibm.biz/pairs-api-register 
+- Use Firefox or Safari browsers and go to https://oxaihack2020.eu-gb.mybluemix.net/api-auth
+
 - At the username/password prompt, enter your IBM ID.  **DO NOT** use your IBM password for password field, just type 'pairs' (lowercase, without quotes). Click OK
 - You will see long string of characters returned (example 80889d27-e42a-4e13-8f37-4829659620cc, your text will be different to this example), save the reply to a text editor of your choice
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
@@ -48,7 +49,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 
 ## 4. Datasets and DataLayers
 
-We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attend the 8-9pm session.
+We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  We will email this spreadsheet to the technical represenatative who attends the Friday 8-9pm session.
 
 ## OVERVIEW
 
@@ -71,11 +72,11 @@ to.
 
 ### PAIRS
 
-There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  When using the GUI version you are presented with Datalayers and DataSets.  There is a one to many relationship (a dataset contains many datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event (it will be emailed to you).  We recommend you take some time looking at the contents **before** using the GUI and/or APIs to determine if there are already some datalayers available that are relevant to your idea.
+There are two modes for using PAIRS, Graphical User Interface (GUI) and via API calls.  There are "Datasets" and "DataLayers". There is a one to many relationship (a dataset contains one or more datalayers). A CSV file showing the datasets/datalayers will be shared with you during the Event (see Step 2 above).  We recommend you take some time looking at the contents **before** using the GUI and/or APIs to determine if some DataLayers are relevant to your idea.
 
 #### PAIRS GUI
 
-Video and documentation for PAIRS GUI.  We recomend quickly going through the video to become familiar withh the interface and then go to the step by step instructions :
+We recomend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
@@ -85,8 +86,9 @@ Video and documentation for PAIRS GUI.  We recomend quickly going through the vi
 
 Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with the APIs and then go to the step by step instructions :
 
--  Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
-- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage
+-  Online PAIRS API Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
+- Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage. You can of course call the APIs when within Watsoon Studio (see below).
+
 - Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio)
 
 ### TWC
@@ -94,7 +96,7 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 #### APIs
 We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit).  The API keys can be obtained from the IBM team at either the 8-9pm event or at any time on Saturday or Sunday.
 
-Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC%20Data%20Package%20Summary.pdf)
+Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC-Data-Package-Summary.pdf)
 
 ### Watson Studio
 
