@@ -43,6 +43,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Go to : did not work on 7th at 1124am :  http://ibm.biz/pairs-api-register 
 
 https://oxaihack2020.eu-gb.mybluemix.net/api-auth
+
 https://oxaihack2020.eu-gb.cf.appdomain.cloud/api-auth
 
 
