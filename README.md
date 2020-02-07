@@ -275,9 +275,9 @@ Click on Winchester-datalayer-sample.  And then click on the Pencil icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/023-ws.png)
 
-Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
+Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consuming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
 
-If you create a new Notebook always pick "1vCPU and 4 GB RAM and is free" for the environment otherwise your Lite IBM Cloud account will use it's resources and there will become a point where the Notebook will be locked unless  you revert back to the "1vCPU and 4 GB RAM and is free" level.
+**If you create a new Notebook always pick "1vCPU and 4 GB RAM and is free" for the environment** otherwise your Lite IBM Cloud account will use it's resources and there will become a point where the Notebook will be locked unless  you revert back to the "1vCPU and 4 GB RAM and is free" level.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/024-ws.png)
 
