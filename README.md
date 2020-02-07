@@ -30,7 +30,7 @@ You must have done step 1 above before doing this step, an active IBM ID is requ
 - Click the circular symbol to the top right of the screen and check your username is shown
 - You are now part of the Trial group
 
-- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 6:45pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
+- **VERY IMPORTANT** : Pass on your IBM ID to one of the IBM team (who will be in the Large Meeting Room (LMR) upstairs from 7:55pm) since we have arranged for special access to some datasets that are not usually available.  They will add you to the Oxford Group.  We MUST carry this out by 8:40pm or so on Fri 7th Feb 2020.  We will reply back indicating you have been added and will also send The Weather Company API keys and the Datasets/DataLayers spreadsheet (see below).
 
 ## 3. MUST DO : Register your IBM ID to get access to PAIRS APIs
 
