@@ -14,23 +14,23 @@ Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have
 
 NOTE : Where you see the following line in any of the Notebooks :
 
-'''
-PAIRS_SERVER      = 'https://pairs.res.ibm.com'
-PAIRS_USER        = '<username>'
+```
+PAIRS_SERVER='https://pairs.res.ibm.com'
+PAIRS_USER=<username>'
 PAIRS_CREDENTIALS = (
     PAIRS_USER, paw.get_pairs_api_password(PAIRS_SERVER, PAIRS_USER, passFile= os.path.expanduser('~/ibmpairspass.txt'))
 )
-'''
+```
   
 Replace it with the following lines :
 
-'''
-PAIRS_USER              = ‘<your IBM ID>’
-PAIRS_SERVER            = ’https://oxaihack2020.eu-gb.mybluemix.net'
-PAIRS_PASSWORD          = ‘pairs’
-BASE_URI                = ‘/’
-PAIRS_CREDENTIALS       = (PAIRS_USER, PAIRS_PASSWORD)
-'''
+```
+PAIRS_USER=‘<your IBM ID>’
+PAIRS_SERVER=’https://oxaihack2020.eu-gb.mybluemix.net'
+PAIRS_PASSWORD=‘pairs’
+BASE_URI=‘/’
+PAIRS_CREDENTIALS=(PAIRS_USER, PAIRS_PASSWORD)
+```
 
 
 ## Important : must do by 9pm on Friday 7th Feb
