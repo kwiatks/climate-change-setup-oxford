@@ -8,7 +8,7 @@ Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentorin
 
 We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
 
-Spreadsheet file is [Link to this github where the spreadsheet is located : It has 410 datalayers for you to look at](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
+Spreadsheet file is here -> [Spreadsheet : It has 410 datalayers for you to look at](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
 
 ## HOT NEWS for Saturday 8th February 2020
 
