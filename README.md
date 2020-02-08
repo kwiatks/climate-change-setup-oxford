@@ -37,7 +37,8 @@ PAIRS_CREDENTIALS=(PAIRS_USER, PAIRS_PASSWORD)
 ```
 ## 0.3 TWC API-keys
 
-TWC API-keys are [File in this github](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
+TWC API-keys are [In this github](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
+
 APIs : https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit
 
 ## Important : must do by 9pm on Friday 7th Feb
