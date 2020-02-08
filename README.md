@@ -2,9 +2,13 @@
 
 ## Where the IBM team will be
 
-We will be in the Large Meeting Room (LMR) upstairs in the Foundry on Friday.  Please come along to it to ask any questions you may have.  
-
 Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
+
+## 0. Datasets and DataLayers
+
+We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
+
+Spreadsheet file is [Link to this github where the spreadsheet is located : It has 410 datalayers for you to look at](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
 
 ## HOT NEWS for Saturday 8th February 2020
 
@@ -79,14 +83,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
 - Save away the reply to a text editor of your choice
 
-## 4. Datasets and DataLayers
-
-We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
-
-Spreadsheet file is [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
-
-
-## 5. TWC API-keys
+## 4. TWC API-keys
 
 TWC API-keys are [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
 
