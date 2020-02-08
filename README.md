@@ -6,7 +6,7 @@ We will be in the Large Meeting Room (LMR) upstairs in the Foundry on Friday.  P
 
 Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
 
-## HOT NEWS
+## HOT NEWS for Saturday 8th February 2020
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
