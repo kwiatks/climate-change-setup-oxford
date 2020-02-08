@@ -11,9 +11,11 @@ Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentorin
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
 NOTE : Where you see the following line in any of the Notebooks :
+
 PAIRS_SERVER            = 'https://pairs.res.ibm.com'
 
 Replace it with the following line :
+
 PAIRS_SERVER            = ’https://oxaihack2020.eu-gb.mybluemix.net'
 
 ## Important : must do by 9pm on Friday 7th Feb
