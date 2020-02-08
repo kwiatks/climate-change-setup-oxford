@@ -109,7 +109,7 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 #### PAIRS GUI
 
-We recomend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
+We recommend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
