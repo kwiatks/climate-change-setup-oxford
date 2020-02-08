@@ -4,7 +4,7 @@
 
 Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
 
-## 0. Datasets and DataLayers
+## 0.1 Datasets and DataLayers
 
 We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
 
@@ -15,7 +15,7 @@ Spreadsheet file is here -> [Spreadsheet : It has 410 datalayers for you to look
 ### Numbers being enabled for PAIRS
 Around 80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
 
-### New Notebooks
+### 0.2 New Notebooks
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
