@@ -2,7 +2,13 @@
 
 ## Where the IBM team will be
 
-We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request via the Mentor request booking system.
+We will be in the Large Meeting Room (LMR) upstairs in the Foundry on Friday.  Please come along to it to ask any questions you may have.  
+
+Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
+
+## HOT NEWS
+
+Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.
 
 ## Important : must do by 8:40pm on Friday 7th Feb
 
