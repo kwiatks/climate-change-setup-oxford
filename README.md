@@ -8,11 +8,16 @@ Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentorin
 
 ## HOT NEWS for Saturday 8th February 2020
 
-Around  80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
+### Numbers being enabled for PAIRS
+Around 80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
+
+### New Notebooks
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
-NOTE : Where you see the following line in any of the Notebooks :
+**NOTE** : Do not cut/paste from this github README since there are control characters that get copied across that you can't see and the Python notebook does not like and so execution stop.  Go [here](https://raw.githubusercontent.com/kwiatks/climate-change-setup-oxford/master/pairs-credentials.txt) for tested version of the text you need.
+
+Where you see the following line in any of the Notebooks :
 
 ```
 PAIRS_SERVER='https://pairs.res.ibm.com'
@@ -22,7 +27,7 @@ PAIRS_CREDENTIALS = (
 )
 ```
   
-Replace it with the following lines :
+Replace it with the following lines from [here](https://raw.githubusercontent.com/kwiatks/climate-change-setup-oxford/master/pairs-credentials.txt) :
 
 ```
 PAIRS_USER=‘<your IBM ID>’
