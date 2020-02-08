@@ -35,7 +35,10 @@ PAIRS_PASSWORD=‘pairs’
 BASE_URI=‘/’
 PAIRS_CREDENTIALS=(PAIRS_USER, PAIRS_PASSWORD)
 ```
+## 0.3 TWC API-keys
 
+TWC API-keys are [File in this github](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
+APIs : https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit
 
 ## Important : must do by 9pm on Friday 7th Feb
 
@@ -78,9 +81,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
 - Save away the reply to a text editor of your choice
 
-## 4. TWC API-keys
 
-TWC API-keys are [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
 
 ## OVERVIEW
 
