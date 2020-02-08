@@ -10,12 +10,7 @@ We have arranged enhanced access to some Datasets/DataLayers for this event.  Da
 
 Spreadsheet file is here -> [Spreadsheet : It has 410 datalayers for you to look at](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
 
-## HOT NEWS for Saturday 8th February 2020
-
-### Numbers being enabled for PAIRS
-Around 80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
-
-### 0.2 New Notebooks
+## 0.2 New Notebooks
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
