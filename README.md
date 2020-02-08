@@ -2,11 +2,40 @@
 
 ## Where the IBM team will be
 
-We will be in the Large Meeting Room (LMR) upstairs in the Foundry.  Please come along to it to ask any questions you may have.  We will also be going round to each team if you have made a specifc request via the Mentor request booking system.
+We will be in the Large Meeting Room (LMR) upstairs in the Foundry on Friday.  Please come along to it to ask any questions you may have.  
 
-## Important : must do by 8:40pm on Friday 7th Feb
+Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
 
-For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **8:40pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
+## HOT NEWS for Saturday 8th February 2020
+
+Around  80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
+
+Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
+
+NOTE : Where you see the following line in any of the Notebooks :
+
+```
+PAIRS_SERVER='https://pairs.res.ibm.com'
+PAIRS_USER=<username>'
+PAIRS_CREDENTIALS = (
+    PAIRS_USER, paw.get_pairs_api_password(PAIRS_SERVER, PAIRS_USER, passFile= os.path.expanduser('~/ibmpairspass.txt'))
+)
+```
+  
+Replace it with the following lines :
+
+```
+PAIRS_USER=‘<your IBM ID>’
+PAIRS_SERVER=’https://oxaihack2020.eu-gb.mybluemix.net'
+PAIRS_PASSWORD=‘pairs’
+BASE_URI=‘/’
+PAIRS_CREDENTIALS=(PAIRS_USER, PAIRS_PASSWORD)
+```
+
+
+## Important : must do by 9pm on Friday 7th Feb
+
+For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **9pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
 
 ## 1. MUST DO : Get an IBM ID and IBM Cloud account
 
@@ -275,9 +304,9 @@ Click on Winchester-datalayer-sample.  And then click on the Pencil icon
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/023-ws.png)
 
-Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consumming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
+Check that "1vCPU and 4 GB RAM and is free" is shown.  This is important since if anything else is shown then you will start consuming resources in the Lite account and could possibly run out of the 50 vCPU hours allocated to free accounts.
 
-If you create a new Notebook always pick "1vCPU and 4 GB RAM and is free" for the environment otherwise your Lite IBM Cloud account will use it's resources and there will become a point where the Notebook will be locked unless  you revert back to the "1vCPU and 4 GB RAM and is free" level.
+**If you create a new Notebook always pick "1vCPU and 4 GB RAM and is free" for the environment** otherwise your Lite IBM Cloud account will use it's resources and there will become a point where the Notebook will be locked unless  you revert back to the "1vCPU and 4 GB RAM and is free" level.
 
 ![](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/images/024-ws.png)
 
