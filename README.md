@@ -10,6 +10,12 @@ Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentorin
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
+NOTE : Where you see the following line in any of the Notebooks :
+PAIRS_SERVER            = 'https://pairs.res.ibm.com'
+
+Replace it with the following line :
+PAIRS_SERVER            = ’https://oxaihack2020.eu-gb.mybluemix.net'
+
 ## Important : must do by 9pm on Friday 7th Feb
 
 For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **9pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
