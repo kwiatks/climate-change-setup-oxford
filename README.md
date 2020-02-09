@@ -2,16 +2,21 @@
 
 ## Where the IBM team will be
 
-We will be in the Large Meeting Room (LMR) upstairs in the Foundry on Friday.  Please come along to it to ask any questions you may have.  
-
 Saturday/Sunday :  We will be downstairs - please  book a formal 15 min mentoring session or just catch one  of us if you see we are free.
 
-## HOT NEWS for Saturday 8th February 2020
+## 0.1 Datasets and DataLayers
 
-### Numbers being enabled for PAIRS
-Around 80 of you have been enabled to access IBM PAIRS GUI and a siumilar number for PAIRS APIs
+We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
 
-### New Notebooks
+Spreadsheet file is here -> [Spreadsheet : It has 410 datalayers for you to look at](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
+
+## 0.2 TWC API-keys
+
+TWC API-keys are [In this github](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
+
+APIs : https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit
+
+## 0.3 New Notebooks
 
 Please got to https://github.com/IBM/ibmpairs/tree/master/examples where we have published some Notebooks very relevant to the Climate Change theme of the weekend.  Please see Notebook file ending in .ipynb in each example.
 
@@ -36,8 +41,6 @@ PAIRS_PASSWORD=‘pairs’
 BASE_URI=‘/’
 PAIRS_CREDENTIALS=(PAIRS_USER, PAIRS_PASSWORD)
 ```
-
-
 ## Important : must do by 9pm on Friday 7th Feb
 
 For people who wish to use the PAIRS GUI or PAIRS APIs we need you to have carried out steps 1 to 3 by **9pm on Fri 7th Feb 2020** so that we are able to add you to a special access group that has been arranged for this event.  This cannot be carried out on Saturday or Sunday.
@@ -79,16 +82,7 @@ In order to allow your IBM ID access to the PAIRS APIs you will need to register
 - Refresh your browser to go to the same link and you should get a reply which contains your IBM ID email (example : {"_id":"pairs-**your IBM ID**","_rev":"1-c7a7500961d845a7ce0f8ea8a430295a","token":"80889d27-e42a-4e13-8f37-4829659620cc"}), this confirms you are registered to call the PAIRS APIs initerface
 - Save away the reply to a text editor of your choice
 
-## 4. Datasets and DataLayers
 
-We have arranged enhanced access to some Datasets/DataLayers for this event.  Datasets contain one or more DataLayers.  Datasets have an ID number and short names and DataLayers have the same (ID + short names).  We are providing a spreadsheet which decribes the mapping and availability of Datasets vs DataLayers.  
-
-Spreadsheet file is [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/Oxford%20University%20Hackathon%20Data%20Layer%20Report%20w%20Ratings.xlsx?raw=true)
-
-
-## 5. TWC API-keys
-
-TWC API-keys are [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/twc-api-keys-oxford.txt)
 
 ## OVERVIEW
 
@@ -103,11 +97,11 @@ to.
 
 ### Useful background links
 
-- PAIRS - IBM PAIRS GEOSCOPE is a platform, specifically designed for massive geospatial-temporal data (maps, satellite, weather, drone, IoT), query and analytics services. It frees up data scientists, developers from the cumbersome processes that dominate conventional data preparation and provides search-friendly access to a rich, diverse, and growing catalog of continually updated geospatial-temporal information. See https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
+- PAIRS - https://www.ibm.com/uk-en/marketplace/geospatial-big-data-analytics
 
-- TWC - The Weather Company, delivers personalized, actionable insights to consumers and businesses across the globe by combining the world’s most accurate weather data with industry-leading AI, Internet of Things (IoT) and analytics technologies. See https://www.ibm.com/weather. See https://www.ibm.com/weather
+- TWC - https://www.ibm.com/weather. See https://www.ibm.com/weather
 
-- IBM Watson Studio is a data science and machine learning platform built from the ground up for an AI-powered business. It helps simplify the process of experimentation to deployment, speed data exploration and model development and training, and scale data science operations across the lifecycle.  Watson Studio can exist in the IBM Cloud as well as locally within your own in-premise data centre or even be installed in other Cloud providers solutions.  See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
+- IBM Watson Studio : See https://www.ibm.com/uk-en/cloud/watson-studio and  https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/welcome-main.html?context=analytics
 
 ### PAIRS
 
@@ -115,7 +109,7 @@ There are two modes for using PAIRS, Graphical User Interface (GUI) and via API 
 
 #### PAIRS GUI
 
-We recomend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
+We recommend quickly going through the videos (they are each very short) to become familiar with the interface and then go to the step by step instructions while also looking at the online tutorial :
 
 - There are a few short videos https://www.youtube.com/playlist?list=PL0VD16H1q5IO3sP-i667TVyn4OsSP6kPc
 - Online PAIRS GUI Tutorial https://pairs.res.ibm.com/tutorial/tutorials/gui/index.html
@@ -133,7 +127,7 @@ Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with 
 ### TWC
 
 #### APIs
-We have arranaged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit)
+We have arranged for you to have access to Historic and Forecast APIs.  The full set of TWC APIs is shown [here](https://docs.google.com/document/d/15Ru_3wdMgpbM4aOCm-4qNAnRfjx2w-Ruw3lnr8Hnodk/edit)
 
 Some additional useful information on using TWC APIs is contained in this [PDF](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/TWC-Data-Package-Summary.pdf)
 
