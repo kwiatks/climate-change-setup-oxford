@@ -1,0 +1,51 @@
+People : 38
+
+Me + Dave
+
+4 people : Alava, Jonah, Damien Bemben, ???, anyone else (take picture)
+
+Keynote : Dave
+
+Tour : Stef (IoT).  Tim (ETS)
+
+====
+173    
+1800     Introductory Talk            Dave Locke
+1830     Split into Two Groups for lab sessions
+1835     Group 1 – IoT lab; Group 2 – Emerging Technologies lab
+1905      Group 2 – IoT lab; Group 1 – Emerging Technologies lab
+1940      Reconvene in shared area for Q&A followed by networking 
+2000     Central Hall
+
+Catering : tea/coffee/water
+
+Security
+
+Stef->Dave : 2 slides
+
+Spreadsheet
+
+Bell
+
+Stef/pictures
+
+Debra Bailey : Chief Information Officer O2
+
+1. Develop AI and Machine Learning (ML) solutions toclimate change that would increase the likelihood of limitingglobal warming to 1.5ºC above pre-industrial levels* and/orassist with adaptation to climate breakdown.2. Develop an understanding of the possible technical, socialand economic benefits, risks andunintended consequencesof using AI and ML to tackle climate change.
+
+Physical Analytics Integrated Data Repository and Services
+
+
+
+The following IBMers supported the event from Fri 7th to Sun 9th Feb :  Stefan J Kwiatkowski/UK/IBM, Dusan Magula/UK/IBM, Sean Tracey/UK/IBM, James Burn/UK/IBM, Brian Innes1/UK/IBM and Ross Cruickshank/UK/IBM created a special Proxy for the event and helped remotely.  Simon Laws/UK/IBM was on hand remotely monitoring PAIRS as queries were sent in by all the students.
+
+
+001-IMG_0257-overall-Winner
+004-IMG_0262-winner-technical
+008-IMG_0267-winner-business
+
+
+http://172.19.100.149/#
+
+
+Rod Reicks/Rochester/IBM :  DIVISION CODE : J3 : Business Unit : IBM Cognitive Applications
