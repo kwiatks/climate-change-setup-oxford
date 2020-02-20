@@ -119,7 +119,10 @@ We recommend quickly going through the videos (they are each very short) to beco
 
 Documentation for PAIRS APIs.  We recomend quickly going becoming familiar with the APIs and then go to the step by step instructions :
 
--  Online PAIRS API Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
+- Online PAIRS API Tutorial https://pairs.res.ibm.com/tutorial/documentation/api/core_api_v2.html
+
+- A very useful Notebook is here -> https://github.com/IBM/ibmpairs/tree/master/tutorials and is also contained in the Project zip file (see the Step by Step instructions for APIs lower in this github).  We recommend you spend some time looking at the various PAIRS calls inside this Notebook.
+
 - Swagger https://pairs.res.ibm.com/manual/api-doc/.  NOTE : you will not be able to use the 'Try it' option in the Swagger website against the API you wish to investigate - contact one of the IBMers if you need to run this feature in the Swagger webpage. You can of course call the APIs when within Watsoon Studio (see below).
 
 - Step by step instructions for this event are shown [here](https://github.com/kwiatks/climate-change-setup-oxford/blob/master/README.md#calling-pairs-and-twc-apis-within-watson-studio)
